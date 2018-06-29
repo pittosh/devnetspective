@@ -1,0 +1,67 @@
+<!-- Team Start -->
+<section id="team">
+  <div class="container team">
+    
+    <!-- Intro -->
+    <div class="row">
+      <div class="section-title">
+        <h2>{{ .Site.Data.team.title }}</h2>
+      </div>
+    </div>
+
+    <!-- Content -->
+    <div class="row">
+      {{ range .Site.Data.team.content }}
+      <div class="col-md-5 col-sm-3">
+        <div class="team-item">
+          <img src="{{ .Site.BaseURL }}/{{ .image }}" class="img-responsive img-circle"></i>
+          <h4>{{ .name }}</h4>
+          <span>{{ .designation }}</span>
+        </div>
+      </div>
+      {{ end }}
+    </div>    
+    <div class="team-two">
+      <!-- Intro -->
+      <div class="row">
+        <div class="section-title">
+          <h2>{{ .Site.Data.team.title_two }}</h2>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div class="row">
+        {{ range .Site.Data.team.content_two }}
+        <div class="col-md-5 col-sm-3">
+          <div class="team-item">
+            <img src="{{ .Site.BaseURL }}/{{ .image }}" class="img-responsive img-circle"></i>
+            <h4>{{ .name }}</h4>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+    <div class="team-three">
+      <!-- Intro -->
+      <div class="row">
+        <div class="section-title">
+          <h2>{{ .Site.Data.team.title_three }}</h2>
+        </div>
+      </div>
+
+      <!-- Content -->
+      <div class="row">
+        {{ range .Site.Data.team.content_three }}
+        <div class="col-md-5 col-sm-3">
+          <div class="team-item">
+            <img src="{{ .Site.BaseURL }}/{{ .image }}" class="img-responsive img-circle"></i>
+            <h4>{{ .name }}</h4>
+            <span>{{ .designation }}</span>
+          </div>
+        </div>
+        {{ end }}
+      </div>
+    </div>
+
+  </div>
+</section>

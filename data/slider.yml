@@ -1,0 +1,13 @@
+content:
+
+  - image: /img/slider/slide01-1.jpg
+    name: slider1
+    active: active 
+
+  - image: /img/slider/slide02-1.jpg
+    name: slider2
+    active: noactive
+
+  - image: /img/slider/slide03-1.jpg
+    name: slider3
+    active: noactive

@@ -1,0 +1,85 @@
+enable: true
+title: Senior Management
+content:
+
+  - image: img/team/rashid-new.jpg
+    name: Rashid Shah
+    designation: CEO
+
+  - image: img/team/Gunjan-Siroya-2.jpg
+    name: Gunjan Siroya
+    designation: Director of Sales,Commercial
+
+  - image: img/team/men-avator.png
+    name: Tom Fogarty
+    designation: Director of Sales, Public Sector
+
+  - image: img/team/Sarji-R-Mohammedali.jpg
+    name: Sarji R Mohammedali
+    designation: Director of Engineering
+
+  - image: img/team/Don-Lee.jpg
+    name: Don Lee
+    designation: Director of Integration
+
+title_two: Engineering Associates
+content_two:
+
+  - image: img/team/Abdu-Razak.jpg
+    name: Abdul Razak
+
+  - image: img/team/Ajay-Kumaran-Nair.png
+    name: Ajay Kumaran Nair
+
+  - image: img/team/Anup_Antony.jpg
+    name: Anup Antony
+
+  - image: img/team/Dhanya.jpg
+    name: Dhanya Sreejith
+
+  - image: img/team/Febin-Joy.jpg
+    name: Febin Joy
+
+  - image: img/team/Geo-V-L.jpg
+    name: Geo V Lazar
+
+  - image: img/team/Mahesh-Prabhu-.jpg
+    name: Mahesh Prabhu
+
+  - image: img/team/Mary-John.jpg
+    name: Mary Jolly John
+
+  - image: img/team/MathewNJ.jpg
+    name: Mathew N Joy
+
+  - image: img/team/meghana1.jpg
+    name: Meghana R Thangaraj
+
+  - image: img/team/Pradeep.jpg
+    name: Pradeep Naryanan
+
+  - image: img/team/RaphaelVP.jpg
+    name: Raphael Vazhappilly
+
+  - image: img/team/Ratheesh.jpg
+    name: Ratheesh K Ravi
+
+  - image: img/team/Roni-K-B.jpg
+    name: Roni K Baby
+
+  - image: img/team/Venkata-Reddy-Gogulamudi.jpg
+    name: Venkata Gogulamudi
+
+title_three: Corporate Governance
+content_three:
+  - image: img/team/Shahidshah.jpg
+    name: Shahid N Shah
+    designation: Chairman of the Board
+
+  - image: img/team/men-avator.png
+    name: Mohammad Rahman
+    designation: IP Counsel
+
+  - image: img/team/men-avator.png
+    name: Mohammad Sufyan
+    designation: Director of IP
