@@ -246,7 +246,7 @@ theme = "airspace-hugo"
       parent = "consulting-services"
       weight = 4
       name = "Industry and Technology Research"
-      url = "/industry-and-technology-research"  
+      url = "/consulting-services/industry-and-technology-research"  
       [[menu.header]]
       parent = "consulting-services"
       weight = 5
@@ -254,11 +254,22 @@ theme = "airspace-hugo"
       url = "/consulting-services/regulatory-compliance-standards"  
   [[menu.header]]
     weight = 6
-    name = "Contact"
-    url = "/contact"
+    name = "Solutions"
+    identifier = "solutions"
+    url = "#"
+    [[menu.header]]
+      weight = 1
+      name = "Attest"
+      parent = "solutions"
+      url = "/attest"
+    [[menu.header]]
+      weight = 2
+      name = "CAK"
+      parent = "solutions"
+      url = "/cak"
   [[menu.header]]
     weight = 7
-    name = "Blog"
+    name = "Blogs"
     url = "/blog"  
   
   [[menu.footer]]
@@ -496,7 +507,24 @@ theme = "airspace-hugo"
     url = "https://feeds.feedburner.com/NetspectiveBlog"
   [[menu.social]]
     name = "fa fa-twitter"
-    url = "https://twitter.com/netspective"  
+    url = "https://twitter.com/netspective" 
+
+  [[menu.submenu]]
+    name = "Why CAK?"
+    url = "#why-netspective-cak"
+    weight = 1
+  [[menu.submenu]]
+    name = "What is it?"
+    url = "#what-is-netspective-cak"
+    weight = 2
+  [[menu.submenu]]
+    name = "Features"
+    url = "#research"
+    weight = 3
+  [[menu.submenu]]
+    name = "Clients"
+    url = "#clients" 
+    weight = 4  
 
 # The site's parameters
 [params]

@@ -1,0 +1,24 @@
+<!-- Slider Start -->
+<section id="slider">
+  <div class="container">
+    <div class="row-fluid">
+      <div class="col-md-12">
+        <div class="hero-unit">
+          <h1> {{ .Site.Data.banner.title }}</h1>
+          <p>{{ .Site.Data.banner.description }}<br>
+          </p>
+          <div class="row-fluid banner">  
+              <div class="col-md-2"></div>       
+              {{ range .Site.Data.banner.content }}
+                <div class="col-md-2">
+                <div><a href="#{{ .link }}"><img src="{{ .image }}" alt="{{ .name }}"></a></div>
+                <div><a href="#{{ .link }}"><span>{{ .name }}</span></a></div>
+                </div>
+              {{ end }}
+              <div class="col-md-2"></div> 
+          </div>
+        </div>       
+      </div>
+    </div>
+  </div>
+</section>
