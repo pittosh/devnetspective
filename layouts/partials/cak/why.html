@@ -1,0 +1,18 @@
+<section id="why-netspective-cak">
+	<div class="container">
+        <div class="row-fluid">
+           <div class="col-md-12">           	
+			  <div class="section-title"><h1> {{ .Site.Data.cak.why.title }}</h1></div>
+	            <p><strong>{{ .Site.Data.cak.why.subtitle }}</strong></p>
+	            {{ .Site.Data.cak.why.paragraph | safeHTML }}
+	            {{ range .Site.Data.cak.why.content }}
+	                <div class="col-md-4 {{ .class }} block">
+		            	<h3>{{ .name }}</h3>
+		            	<p><img src="{{ .image }}" alt="{{ .name }}"></p>
+		            	<p>{{ .description }}</p>
+	                </div>
+	            {{ end }}
+	        </div>
+        </div>       
+    </div>
+</section>

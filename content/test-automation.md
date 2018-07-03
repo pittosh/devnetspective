@@ -3,7 +3,7 @@ title: Test Automation
 author: Jayakrishnan S
 type: page
 date: 2013-01-17T09:45:05+00:00
-slug: /technology-services/development/test-automation
+slug: /technology-services/testing/test-automation
 ---
 The past few years have seen drastic changes in testing methodologies. Organizations are moving towards test automation in order to save on cost and time. Enterprises are analyzing every phase of the testing life cycle to find out the areas that can be automated by using tools. From initial automated testing strategies where scripting knowledge was required to write scripts to automate testing, the testing industry has gone to making script less testing frameworks. These advancements in automation without the knowledge of scripting languages have allowed users with good business knowledge to create the automation scripts based on the business usecases.
 

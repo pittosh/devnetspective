@@ -1,0 +1,82 @@
+title: Why Netspective CAK?
+subtitle: Have a great product or service but no marketing staff? It might be time to DIY.
+paragraph: >
+  <p>Does enterprise selling come naturally to your staff? Do you have the expertise to pull off a full-bodied content marketing campaign?</p>
+
+  <p>If not, no worries! There’s another, proven path to content marketing success.</p>
+
+  <p>The Netspective™ Content Assembler Kit helps you avoid the time, costs and hassles of content marketing.</p>
+  
+  <ul>
+    <li>Guides you through content assembly, curation and distribution tasks, step by step.</li>
+    <li>Provides all the tools, services you need for content marketing success.</li>
+    <li>Automates time-consuming content search and distribution tasks.</li>
+    <li>Does online research to find the right content for your marketing goals and audience.</li>
+    <li>Gathers and distributes content on many topics from many sources, without your having to create or look for it yourself.</li>
+    <li>Provides your audience with engaging content—even if you have no specialized marketing skills or experience.</li>
+  </ul>
+  <p>In short, the CAK helps you launch successful content marketing campaigns, even if there’s not a marketing professional in sight.</p>
+content:
+
+  - image: /img/business.png
+    class: business
+    name: >
+      Business Services
+    description: >
+      Boost sales, improve online traffic, maximize marketing reach with high-quality customized content
+
+  - image: /img/communications-media.png
+    class: communications
+    name: >
+      Communications & Media
+    description: >
+      Tools and services to manage social networks, analyze social media traffic and engage with influencers.
+
+  - image: /img/education.png
+    class: education
+    name: >
+      Education
+    description: >
+      Offer content the audience desires at consistent and regular intervals.
+
+  - image: /img/financial-services.png
+    class: financial
+    name: >
+      Financial Services
+    description: >
+      Cater to the needs of an evolving audience while generating revenue and increasing your market share.
+
+  - image: /img/technology.png
+    class: technology
+    name: >
+      Technology
+    description: >
+      Allows your brand to be perceived as valuable. Allows more potential customers to find you easily.
+
+  - image: /img/healthcare.png
+    class: healthcare
+    name: >
+      Healthcare
+    description: >
+      Drive quality traffic to your site with content your patients want.
+    
+  - image: /img/b2b.png
+    class: b2b
+    name: >
+      B2B/B2C
+    description: >
+      Helps generate revenue and customer retention. Increases customer conversion rates.
+
+  - image: /img/small-medium.png
+    class: small-medium
+    name: >
+      Small/Medium
+    description: >
+      Builds brand recognition, credibility and trust among the targeted audience.
+
+  - image: /img/enterprise.png
+    class: enterprise
+    name: >
+      Enterprise
+    description: >
+      Reaching out to an ever growing audience that consumes or influences your content.

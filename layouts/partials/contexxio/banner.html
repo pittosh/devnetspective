@@ -1,21 +1,20 @@
 <!-- Slider Start -->
 <section id="banner">
   <div class="container">
-    <div class="row">
+    <div class="row-fluid">
       <div class="col-md-12">
         <div class="hero-unit">
-          <h1> {{ .Site.Data.cak.banner.title }}</h1>
-          <p>{{ .Site.Data.cak.banner.description }}<br>
+          <h1> {{ .Site.Data.contexxio.banner.title | safeHTML }}</h1>
+          <p>{{ .Site.Data.contexxio.banner.description | safeHTML }}<br>
           </p>
-          <div class="row banner">  
-              <div class="col-md-2"></div>       
-              {{ range .Site.Data.cak.banner.content }}
+          <p><img src="{{ .Site.Data.contexxio.banner.image }}"/></p>
+          <div class="row-fluid banner">  
+              {{ range .Site.Data.contexxio.banner.content }}
                 <div class="col-md-2">
                 <div><a href="#{{ .link }}"><img src="{{ .image }}" alt="{{ .name }}"></a></div>
                 <div><a href="#{{ .link }}"><span>{{ .name }}</span></a></div>
                 </div>
               {{ end }}
-              <div class="col-md-2"></div> 
           </div>
         </div>       
       </div>

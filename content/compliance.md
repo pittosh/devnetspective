@@ -3,7 +3,7 @@ title: Compliance
 author: Jayakrishnan S
 type: page
 date: 2013-01-17T09:45:05+00:00
-slug: /technology-services/development/compliance
+slug: /technology-services/testing/compliance
 ---
 With limited availability of expertise and dedicated resources in the regulatory compliance space, most organizations are not able to keep up with the ever-changing compliance requirements. Additionally, the regulations across countries vary and so marketing products across geographies will need knowledge and implementation of these country specific regulations. As a result of the challenges involved in complying with the regulations and industry standards like ARRA, HIPAA, HITECH and SOX, enterprises find it difficult to bring their products out into the market in a short period of time.
 

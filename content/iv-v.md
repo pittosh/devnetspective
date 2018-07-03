@@ -3,7 +3,7 @@ title: IV & V
 author: Jayakrishnan S
 type: page
 date: 2013-01-17T09:45:05+00:00
-slug: /technology-services/development/iv-v
+slug: /technology-services/testing/iv-v
 ---
 Before they put software into production, many enterprises conduct an Independent Verification and Validation (IV&V) process to make sure it’s bulletproof.
 

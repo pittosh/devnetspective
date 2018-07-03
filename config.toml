@@ -1,5 +1,5 @@
 title = "Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology"
-baseURL = "https://netspetive.netlify.com/"
+baseURL = "https://netspetive.netlify.com"
 languageCode = "en-us"
 theme = "airspace-hugo"  
 
@@ -106,17 +106,17 @@ theme = "airspace-hugo"
         parent = "testing"
         weight = 1
         name = "IV & V"
-        url = "/technology-services/development/iv-v"
+        url = "/technology-services/testing/iv-v"
       [[menu.header]]
         parent = "testing"
         weight = 2
         name = "Test Automation"
-        url = "/technology-services/development/test-automation"
+        url = "/technology-services/testing/test-automation"
       [[menu.header]]
         parent = "testing"
         weight = 3
         name = "compliance"
-        url = "/technology-services/development/compliance"
+        url = "/technology-services/testing/compliance"
     [[menu.header]]
       parent = "technology-services"
       weight = 3
@@ -256,245 +256,17 @@ theme = "airspace-hugo"
     weight = 6
     name = "Solutions"
     identifier = "solutions"
-    url = "#"
-    [[menu.header]]
-      weight = 1
-      name = "Attest"
-      parent = "solutions"
-      url = "/attest"
+    url = "#"    
     [[menu.header]]
       weight = 2
       name = "CAK"
       parent = "solutions"
       url = "/cak"
-  [[menu.header]]
-    weight = 7
-    name = "Blogs"
-    url = "/blog"  
-  
-  [[menu.footer]]
-    weight = 1
-    name = "Industries"
-    identifier = "industries"
-    url = "#"
-      [[menu.footer]]
-      parent = "industries"
-      weight = 1
-      name = "Healthcare"
-      url = "/healthcare"
-      [[menu.footer]]
-      parent = "industries"
+    [[menu.header]]
       weight = 2
-      name = "Government"
-      url = "/government"       
-      [[menu.footer]]
-      parent = "industries"
-      weight = 3
-      name = "Medical Technology"
-      url = "/medical-technology" 
-  [[menu.footer]]
-    weight = 2
-    name = "Solutions"
-    identifier = "solutions"
-    url = "#"
-  [[menu.footer]]
-    weight = 3
-    name = "Technology Services"
-    url = "/technology-services"
-    identifier = "technology-services"
-    [[menu.footer]]
-      parent = "technology-services"
-      weight = 1
-      name = "Development"
-      identifier = "development"
-      url = "/technology-services/development/"
-      [[menu.footer]]
-        parent = "development"
-        weight = 1
-        name = "Architecture"
-        url = "/technology-services/development/architecture"
-      [[menu.footer]]
-        parent = "development"
-        weight = 2
-        name = "Coding and Engineering"
-        url = "/technology-services/development/coding-and-engineering"
-      [[menu.footer]]
-        parent = "development"
-        weight = 3
-        name = "U.I. & I.D."
-        url = "/technology-services/development/u-i-i-d"
-      [[menu.footer]]
-        parent = "development"
-        weight = 4
-        name = "Integration"
-        url = "/technology-services/development/integration"
-      [[menu.footer]]
-        parent = "development"
-        weight = 5
-        name = "Web 2.0"
-        url = "/technology-services/development/web-2-0"
-      [[menu.footer]]
-        parent = "development"
-        weight = 6
-        name = "Mobility"
-        url = "/technology-services/development/mobility"
-    [[menu.footer]]
-      parent = "technology-services"
-      weight = 2
-      name = "Testing"
-      identifier = "testing"
-      url = "/technology-services/testing/"
-      [[menu.footer]]
-        parent = "testing"
-        weight = 1
-        name = "IV & V"
-        url = "/technology-services/development/iv-v"
-      [[menu.footer]]
-        parent = "testing"
-        weight = 2
-        name = "Test Automation"
-        url = "/technology-services/development/test-automation"
-      [[menu.footer]]
-        parent = "testing"
-        weight = 3
-        name = "compliance"
-        url = "/technology-services/development/compliance"
-    [[menu.footer]]
-      parent = "technology-services"
-      weight = 3
-      name = "Sustenance"
-      identifier = "sustenance"
-      url = "/technology-services/sustenance/"
-      [[menu.footer]]
-        parent = "sustenance"
-        weight = 1
-        name = "Platform"
-        url = "/technology-services/sustenance/platform"
-      [[menu.footer]]
-        parent = "sustenance"
-        weight = 2
-        name = "Product Or Application"
-        url = "/technology-services/sustenance/product-or-application"
-      [[menu.footer]]
-        parent = "sustenance"
-        weight = 3
-        name = "Legacy Modernization"
-        url = "/technology-services/sustenance/legacy-modernization"
-    [[menu.footer]]
-      parent = "technology-services"
-      weight = 4
-      name = "Deployment"
-      identifier = "deployment"
-      url = "/technology-services/deployment/"
-      [[menu.footer]]
-        parent = "deployment"
-        weight = 1
-        name = "Cloud"
-        url = "/technology-services/deployment/cloud"
-      [[menu.footer]]
-        parent = "deployment"
-        weight = 2
-        name = "Security"
-        url = "/technology-services/deployment/security"
-      [[menu.footer]]
-        parent = "deployment"
-        weight = 3
-        name = "Release Management"
-        url = "/technology-services/deployment/release-management"
-    [[menu.footer]]
-      parent = "technology-services"
-      weight = 5
-      name = "Manage"
-      identifier = "manage"
-      url = "/technology-services/manage/"
-      [[menu.footer]]
-        parent = "manage"
-        weight = 1
-        name = "Infrastructure"
-        url = "/technology-services/manage/infrastructure"
-      [[menu.footer]]
-        parent = "manage"
-        weight = 2
-        name = "Data"
-        url = "/technology-services/manage/data"
-      [[menu.footer]]
-        parent = "manage"
-        weight = 3
-        name = "Access"
-        url = "/technology-services/manage/access"
-      [[menu.footer]]
-        parent = "manage"
-        weight = 4
-        name = "Enterprise I.T."
-        url = "/technology-services/manage/enterprise-i-t"
-      [[menu.footer]]
-        parent = "manage"
-        weight = 5
-        name = "Content"
-        url = "/technology-services/manage/content"
-  [[menu.footer]]
-    weight = 4
-    name = "Consulting Services"
-    url = "/consulting-services"
-    identifier = "consulting-services"
-      [[menu.footer]]
-      parent = "consulting-services"
-      weight = 1
-      name = "Go To Market"
-      url = "/consulting-services/go-to-market/"
-      [[menu.footer]]
-      parent = "consulting-services"
-      weight = 2
-      name = "Business Process Management"
-      url = "/consulting-services/business-process-management"
-      identifier = "business-process-management"
-        [[menu.footer]]
-        parent = "business-process-management"
-        weight = 1
-        name = "Operational Excellence with Lean Six Sigma"
-        url = "/consulting-services/operational-excellence-lean-six-sigma"
-      [[menu.footer]]
-      parent = "consulting-services"
-      identifier = "strategy"
-      weight = 3
-      name = "Strategy"
-      url = "/consulting-services/strategy/"  
-        [[menu.footer]]
-        parent = "strategy"
-        weight = 1
-        name = "Business"
-        url = "/consulting-services/strategy/business"
-        [[menu.footer]]
-        parent = "strategy"
-        weight = 2
-        name = "Product"
-        url = "/consulting-services/strategy/product"
-        [[menu.footer]]
-        parent = "strategy"
-        weight = 3
-        name = "Innovation"
-        url = "/consulting-services/strategy/innovation"
-        [[menu.footer]]
-        parent = "strategy"
-        weight = 4
-        name = "Vendor"
-        url = "/consulting-services/strategy/vendor"
-        [[menu.footer]]
-        parent = "strategy"
-        weight = 5
-        name = "Technology"
-        url = "/consulting-services/strategy/technology"
-      [[menu.footer]]
-      parent = "consulting-services"
-      weight = 4
-      name = "Industry and Technology Research"
-      url = "/industry-and-technology-research"  
-      [[menu.footer]]
-      parent = "consulting-services"
-      weight = 5
-      name = "Regulatory Compliance & Standards"
-      url = "/consulting-services/regulatory-compliance-standards"  
-
+      name = "Contexxio"
+      parent = "solutions"
+      url = "/contexxio"      
 
   [[menu.social]]
     name = "fa fa-google-plus"
@@ -509,22 +281,56 @@ theme = "airspace-hugo"
     name = "fa fa-twitter"
     url = "https://twitter.com/netspective" 
 
-  [[menu.submenu]]
+  [[menu.cak]]
     name = "Why CAK?"
     url = "#why-netspective-cak"
     weight = 1
-  [[menu.submenu]]
+  [[menu.cak]]
     name = "What is it?"
     url = "#what-is-netspective-cak"
     weight = 2
-  [[menu.submenu]]
+  [[menu.cak]]
     name = "Features"
     url = "#research"
     weight = 3
-  [[menu.submenu]]
+  [[menu.cak]]
     name = "Clients"
     url = "#clients" 
     weight = 4  
+
+  [[menu.contexxio]]
+    name = "Why Contexxio?"
+    url = "#why-contexxio"
+    weight = 1
+  [[menu.contexxio]]
+    name = "What is it?"
+    url = "#what-is-it"
+    weight = 2
+  [[menu.contexxio]]
+    name = "Features"
+    url = "#information-blocks"
+    weight = 3 
+
+  [[menu.fluent]]
+    name = "Why Fluent?"
+    url = "#why-fluent"
+    weight = 1
+  [[menu.fluent]]
+    name = "What is it?"
+    url = "#what-is-it"
+    weight = 2
+  [[menu.fluent]]
+    name = "Features"
+    url = "#cloud-connector"
+    weight = 3 
+  [[menu.fluent]]
+    name = "Services"
+    url = "#professional-services"
+    weight = 3 
+  [[menu.fluent]]
+    name = "Clients"
+    url = "#clients"
+    weight = 3 
 
 # The site's parameters
 [params]
@@ -586,9 +392,7 @@ theme = "airspace-hugo"
 
   [params.wrapper]
     enable = true
-    title = "About Us"
-    italic = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997."
-    paragraph = "Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets."
+    title = "Technology, consulting, and solutions focused on firms impacted by FDA, ONC, NIST or other safety, privacy, and security regulations."
 
   [params.blog]
     enable = true
