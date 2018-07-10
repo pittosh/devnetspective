@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Netspective Blogs on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</title>
+    <link>https://www.example.com/blog/</link>
+    <description>Recent content in Netspective Blogs on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Jul 2008 23:14:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>If you cant repeat it, dont bother automating it</title>
+      <link>https://www.example.com/blog/2008-07-20-if-you-cant-repeat-it-dont-bother-automating-it/</link>
+      <pubDate>Sun, 20 Jul 2008 23:14:25 +0000</pubDate>
+      
+      <guid>https://www.example.com/blog/2008-07-20-if-you-cant-repeat-it-dont-bother-automating-it/</guid>
+      <description>There&amp;#8217;s been plenty of discussion in both literature and general media about &amp;#8220;most software projects failing.&amp;#8221; There are plenty of reasons for failed projects: from inadequate requirements gathering to poor project management to plain incompetence. Some of the problem starts at the C-Suite where projects are actually identified and started &amp;#8212; for asking to automate (presumably with software) something that maybe has no business being automated.
+My simple advice to most architects, CTOs, CEOs and CIOs about project management starts with a question: can you methodically and manually repeat the thing you are trying to automate?</description>
+    </item>
+    
+  </channel>
+</rss>

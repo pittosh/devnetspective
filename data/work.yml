@@ -1,0 +1,117 @@
+enable: true
+title: Netspective.TV
+subtitle: Medical Technology, Healthcare & Government IT
+
+portfolio:
+- category: Presentations
+  slug: presentations
+  rows:
+  - category: The No BS Guide to Developing a Healthcare Enterprise Integration Strategy
+    url: "#"
+    image: "/img/netspective.tv/HXR.jpg"
+    name: The No BS Guide to Developing a Healthcare Enterprise Integration Strategy
+    slug: presentations
+  - category: CISQ Quality Standard Overview and Integrating Security into your Systems Development Lifecycle (SDLC)
+    url: "#"
+    image: "/img/netspective.tv/cisq.jpg"
+    name: CISQ Quality Standard Overview and Integrating Security into your Systems Development Lifecycle (SDLC)
+    slug: presentations
+  - category: How existing Big Data technologies are impacting Next Generation ISR
+    url: "#"
+    image: "/img/netspective.tv/isr.jpg"
+    name: How existing Big Data technologies are impacting Next Generation ISR
+    slug: presentations
+  - category: Creating Resilient Software Defined Networks (SDN)
+    url: "#"
+    image: "/img/netspective.tv/slide_0.jpg"
+    name: Creating Resilient Software Defined Networks (SDN)
+    slug: presentations
+  - category: Demand connected medical devices to improve military EHRs
+    url: "#"
+    image: "/img/netspective.tv/slide_military.jpg"
+    name: Demand connected medical devices to improve military EHRs
+    slug: presentations
+  - category: The Biggest Opportunities in Digital Health for Turkey's Medical Sector
+    url: "#"
+    image: "/img/netspective.tv/slide_01.jpg"
+    name: The Biggest Opportunities in Digital Health for Turkey's Medical Sector
+    slug: presentations
+  - category: Reasons Why Health Data is Poorly Integrated Today and What We Can Do About It
+    url: "#"
+    image: "/img/netspective.tv/slide_2.jpg"
+    name: Reasons Why Health Data is Poorly Integrated Today and What We Can Do About It
+    slug: presentations
+  - category: How to Use Open Source Technologies in Safety-critical Digital Health Applications and Medical Device Software
+    url: "#"
+    image: "/img/netspective.tv/slide_1.jpg"
+    name: How to Use Open Source Technologies in Safety-critical Digital Health Applications and Medical Device Software
+    slug: presentations
+  - category: Open Source is a great opportunity for EHR Digital Health and Health IT Integrators
+    url: "#"
+    image: "/img/netspective.tv/open-source-is-a-great-opportunity.jpg"
+    name: Open Source is a great opportunity for EHR Digital Health and Health IT Integrators
+    slug: presentations
+  - category: HxRefactored - Stop dreaming about fluid data interoperability and start focusing on actionable enterprise systems integration
+    url: "#"
+    image: "/img/netspective.tv/HxRefactored.jpg"
+    name: HxRefactored - Stop dreaming about fluid data interoperability and start focusing on actionable enterprise systems integration
+    slug: presentations
+  - category: Shift from Fee for Service to Outcomes-Driven care will drive opportunities for SLs and solution providers
+    url: "#"
+    image: "/img/netspective.tv/Shift from Fee for Service.jpg"
+    name: Shift from Fee for Service to Outcomes-Driven care will drive opportunities for SLs and solution providers
+    slug: presentations
+  - category: How to Use Open Source Technologies in Safety-critical Medical Device Platforms
+    url: "#"
+    image: "/img/netspective.tv/open-source -technologies.jpg"
+    name: How to Use Open Source Technologies in Safety-critical Medical Device Platforms
+    slug: presentations
+  - category: Creating Interoperable Medical Devices that fit into Hospital Enterprise IT Environments
+    url: "#"
+    image: "/img/netspective.tv/creating -interoperable -medical- devices.jpg"
+    name: Creating Interoperable Medical Devices that fit into Hospital Enterprise IT Environments
+    slug: presentations
+  - category: Wireless capable medical devices with significant software and data integration are the future of OSEHRA
+    url: "#"
+    image: "/img/netspective.tv/wireless-capable-medical devices.jpg"
+    name: Wireless capable medical devices with significant software and data integration are the future of OSEHRA
+    slug: presentations
+  - category: OSEHRA is a Great Business Opportunity for Systems Integrators
+    url: "#"
+    image: "/img/netspective.tv/OSEHRA-is a great-business.jpg"
+    name: OSEHRA is a Great Business Opportunity for Systems Integrators
+    slug: presentations
+  - category: Proper Data Integration can change Medical Science
+    url: "#"
+    image: "/img/netspective.tv/proper-data Integration.jpg"
+    name: Proper Data Integration can change Medical Science
+    slug: presentations
+  - category: Reducing Shadow IT by embracing “good enough for HIPAA” horizontal cloud solutions
+    url: "#"
+    image: "/img/netspective.tv/reducing -shadow -it.jpg"
+    name: Reducing Shadow IT by embracing “good enough for HIPAA” horizontal cloud solutions
+    slug: presentations
+  - category: Getting Beyond the Hype of “Disrupting Healthcare” and Focusing on Actionable Innovation
+    url: "#"
+    image: "/img/netspective.tv/reducing -shadow -it.jpg"
+    name: Getting Beyond the Hype of “Disrupting Healthcare” and Focusing on Actionable Innovation
+    slug: presentations
+
+- category: Shahid Shah
+  slug: shahidshah 
+  rows:
+  - category: HIMSS15 Panel - Navigating the Interoperability Journey
+    url: "#"
+    image: "/img/netspective.tv/HIMSS15-Panel.jpg"
+    name: HIMSS15 Panel - Navigating the Interoperability Journey
+    slug: shahidshah 
+- category: Videos
+  slug: videos
+  rows:
+  - category: HIMSS15 Panel - Navigating the Interoperability Journey
+    url: "#"
+    image: "/img/netspective.tv/HIMSS15-Panel.jpg"
+    name: HIMSS15 Panel - Navigating the Interoperability Journey
+    slug: videos 
+   
+   

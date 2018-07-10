@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industries on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</title>
+    <link>https://www.example.com/industries/</link>
+    <description>Recent content in Industries on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.example.com/industries/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Government</title>
+      <link>https://www.example.com/industries/government/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/industries/government/</guid>
+      <description>The rapidity of the economic, political and social changes are driving new ways of governance in U.S. Civilian and Health government agencies especially with constraints being placed on the budget.Some of the most complex challenges today and in the near future are due to financial regulatory oversight reforms, healthcare system reforms, integration of technology and information sharing among law enforcement organizations, enhancing new transportation infrastructure and overhauling the education systems.</description>
+    </item>
+    
+    <item>
+      <title>Healthcare</title>
+      <link>https://www.example.com/industries/healthcare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/industries/healthcare/</guid>
+      <description>The business of healthcare continues to get more complex as patients, providers, public health payers, regulators, pharmaceuticals, medical devices, pharmacy and technology companies become more connected with each other and directly affect health outcomes.
+In order to extend next generation care to patients, healthcare needs to drive rapid reforms with all care associated entities focusing on implementing regulation mandates, bringing workflow integration, creating and implementing new processes and automating them with adequate privacy and security measures to protect patient data to improve clinical intelligence and quality of care.</description>
+    </item>
+    
+    <item>
+      <title>Medical Technology</title>
+      <link>https://www.example.com/industries/medical-technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/industries/medical-technology/</guid>
+      <description>The Medical Technology applications and devices space has been one of the fastest growing segments of the global health and wellness industry. However, this industry has been facing serious headwinds lately in trying to maintain profitable and sustained growth. The emerging markets for existing low-end products to new market segments like home based devices and advanced sensor based diagnosis and monitoring solutions bring new opportunities and avenues for growth.</description>
+    </item>
+    
+  </channel>
+</rss>

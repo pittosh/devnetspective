@@ -30,13 +30,10 @@
 		{{ partial "call-to-action.html" . }}
 	{{ end }}
 
-	{{ if .Site.Data.testimonial.enable }}
-		{{ partial "testimonial.html" . }}
-	{{ end }}
-
 	{{ if .Site.Data.industries.enable }}
 		{{ partial "industries.html" . }}
 	{{ end }}
+	
 
 	{{ partial "footer.html" . }}
 

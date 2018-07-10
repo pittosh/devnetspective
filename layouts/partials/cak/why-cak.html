@@ -1,0 +1,11 @@
+{{ if gt (len .Site.Data.solutions.cak) 0 }}
+        <div id="cak-features">
+        	{{ range sort .Site.Data.solutions.cak "weight" }}
+        	<div class="col-md-4">
+        		<h4>{{ .name }}</h4>
+        		<img src="{{ .image }}"/>
+        		<p>{{ .description }}</p>
+        	</div>
+        	{{ end }}
+        </div>
+{{ end }}

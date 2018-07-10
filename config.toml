@@ -1,7 +1,7 @@
 title = "Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology"
-baseURL = "https://netspetive.netlify.com/"
+baseURL = "https://www.example.com"
 languageCode = "en-us"
-theme = "airspace-hugo"  
+theme = "airspace-hugo"
 
 [menu]
 
@@ -14,27 +14,32 @@ theme = "airspace-hugo"
       parent = "about"
       weight = 1
       name = "Our Team"
-      url = "/team"
+      url = "/about-us/team/"
       [[menu.header]]
        parent = "about"
        weight = 2
        name = "Clients"
-       url = "/about-us/clients/"
+       url = "/about-us/clients/"  
       [[menu.header]]
        parent = "about"
        weight = 3
        name = "Events"
-       url = "/about-us/events"  
+       url = "/about-us/events/"
       [[menu.header]]
        parent = "about"
        weight = 4
-       name = "Netspective.TV"
-       url = "/netspective-tv"
+       name = "News Room"
+       url = "/about-us/newsroom/"  
       [[menu.header]]
        parent = "about"
        weight = 5
+       name = "Netspective.TV"
+       url = "/about-us/netspective-tv"  
+      [[menu.header]]
+       parent = "about"
+       weight = 6
        name = "Contact Us"
-       url = "/contact"
+       url = "/about-us/contact"
   [[menu.header]]
     weight = 3
     name = "Industries"
@@ -44,17 +49,17 @@ theme = "airspace-hugo"
       parent = "industries"
       weight = 1
       name = "Healthcare"
-      url = "/healthcare"
+      url = "/industries/healthcare"
       [[menu.header]]
       parent = "industries"
       weight = 2
       name = "Government"
-      url = "/government"       
+      url = "/industries/government"       
       [[menu.header]]
       parent = "industries"
       weight = 3
       name = "Medical Technology"
-      url = "/medical-technology" 
+      url = "/industries/medical-technology" 
   [[menu.header]]
     weight = 4
     name = "Technology Services"
@@ -80,7 +85,7 @@ theme = "airspace-hugo"
         parent = "development"
         weight = 3
         name = "U.I. & I.D."
-        url = "/technology-services/development/u-i-i-d"
+        url = "/technology-services/development/ui-id/"
       [[menu.header]]
         parent = "development"
         weight = 4
@@ -90,7 +95,7 @@ theme = "airspace-hugo"
         parent = "development"
         weight = 5
         name = "Web 2.0"
-        url = "/technology-services/development/web-2-0"
+        url = "/technology-services/development/web-2.0"
       [[menu.header]]
         parent = "development"
         weight = 6
@@ -253,20 +258,15 @@ theme = "airspace-hugo"
       name = "Regulatory Compliance & Standards"
       url = "/consulting-services/regulatory-compliance-standards"  
   [[menu.header]]
-    weight = 6
-    name = "Solutions"
-    identifier = "solutions"
-    url = "#"    
-    [[menu.header]]
-      weight = 2
+      weight = 6
+      name = "Solutions"
+      url = "#"  
+      identifier = "solutions"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 1
       name = "CAK"
-      parent = "solutions"
-      url = "/cak"
-    [[menu.header]]
-      weight = 2
-      name = "Contexxio"
-      parent = "solutions"
-      url = "/contexxio"      
+      url = "/solutions/cak"  
 
   [[menu.social]]
     name = "fa fa-google-plus"
@@ -281,56 +281,26 @@ theme = "airspace-hugo"
     name = "fa fa-twitter"
     url = "https://twitter.com/netspective" 
 
-  [[menu.cak]]
-    name = "Why CAK?"
-    url = "#why-netspective-cak"
+  [[menu.footer]]
     weight = 1
-  [[menu.cak]]
-    name = "What is it?"
-    url = "#what-is-netspective-cak"
+    name = "About us"
+    url = "#"
+  [[menu.footer]]
     weight = 2
-  [[menu.cak]]
-    name = "Features"
-    url = "#research"
+    name = "Contact us"
+    url = "#"
+  [[menu.footer]]
     weight = 3
-  [[menu.cak]]
-    name = "Clients"
-    url = "#clients" 
-    weight = 4  
-
-  [[menu.contexxio]]
-    name = "Why Contexxio?"
-    url = "#why-contexxio"
-    weight = 1
-  [[menu.contexxio]]
-    name = "What is it?"
-    url = "#what-is-it"
-    weight = 2
-  [[menu.contexxio]]
-    name = "Features"
-    url = "#information-blocks"
-    weight = 3 
-
-  [[menu.fluent]]
-    name = "Why Fluent?"
-    url = "#why-fluent"
-    weight = 1
-  [[menu.fluent]]
-    name = "What is it?"
-    url = "#what-is-it"
-    weight = 2
-  [[menu.fluent]]
-    name = "Features"
-    url = "#cloud-connector"
-    weight = 3 
-  [[menu.fluent]]
-    name = "Services"
-    url = "#professional-services"
-    weight = 3 
-  [[menu.fluent]]
-    name = "Clients"
-    url = "#clients"
-    weight = 3 
+    name = "How it works"
+    url = "#"
+  [[menu.footer]]
+    weight = 4
+    name = "Blog"
+    url = "#"
+  [[menu.footer]]
+    weight = 5
+    name = "Terms"
+    url = "#"
 
 # The site's parameters
 [params]
@@ -345,54 +315,14 @@ theme = "airspace-hugo"
 
   [params.slider]
     enable = true
-    title = "Netspective is a leader in Technology and Consulting services in regulated markets – Healthcare, Government and Medical Technology"
-    subtitle = "Technology, consulting, and solutions focused on firms impacted by FDA, ONC, NIST or other safety, privacy, and security regulations."    
-  
-  [params.why]
-    enable = true
-    title = "About Us"
-    italic = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997."
-    paragraph = "Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets."
-
-  [params.what]
-    enable = true
-    title = "About Us"
-    italic = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997."
-    paragraph = "Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets."
-
-  [params.research]
-    enable = true
-    title = "About Us"
-    italic = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997."
-    paragraph = "Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets."
-
-  [params.assemble]
-    enable = true
-    title = "About Us"
-    italic = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997."
-    paragraph = "Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets."
-
-  [params.curate]
-    enable = true
-    title = "About Us"
-    italic = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997."
-    paragraph = "Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets."
-
-  [params.distribute]
-    enable = true
-    title = "About Us"
-    italic = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997."
-    paragraph = "Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets."
-
-  [params.clients]
-    enable = true
-    title = "About Us"
-    italic = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997."
-    paragraph = "Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets."
+    title = "A digital marketing &amp; design agency"
+    subtitle = "We love the Web and the work we do.<br/>We work closely with our clients to deliver the best possible solutions for their needs"
 
   [params.wrapper]
     enable = true
-    title = "Technology, consulting, and solutions focused on firms impacted by FDA, ONC, NIST or other safety, privacy, and security regulations."
+    title = "About Us"
+    italic = "Netspective is a leader in Technology and Consulting services in regulated markets – Healthcare, Government and Medical Technology"
+    paragraph = "Netspective Communications has been delivering value by solving complex, real-world business and technology problems for Healthcare, Government and Medical Technology industry since 1997.<p>Netspective’s mission is simple – to extend our client’s enterprise by enabling them to meet the market, regulatory and business challenges with a sustainable platform. Our focus in regulated IT stems from our consistent ability to simplify the complex world of regulatory markets with people, processes and technology, helping navigate our clients in Healthcare, Government and Medical Technology markets.</p>"
 
   [params.blog]
     enable = true
@@ -402,25 +332,31 @@ theme = "airspace-hugo"
   [params.feature]
     enable = true
     title = "Breaking News: Frost and Sullivan confers Netspective with"
-    content = "New Product Innovation Award<br/>Medical Device Interoperability North America, 2013"
-    #[params.feature.button]
-    #  caption = "View Works"
-    #  url = "#"
+    content = "New Product Innovation Award Medical Device Interoperability North America, 2013"
+    image = "/img/Netspective-Communications-Award-Logo-150x150.jpg"
+    [params.feature.button]
+      caption = "View Works"
+      url = "#"
 
   [params.call]
-    enable = false
-    title = "We design delightful digital experiences."
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    enable = true
+    title = "Netspective is a leader in Technology and Consulting services in regulated markets – Healthcare, Government and Medical Technology."
+    paragraph = "Technology, consulting, and solutions focused on firms impacted by FDA, ONC, NIST or other safety, privacy, and security regulations."
+
+  [params.team]
+    title1 = "Senior Management"
+    title2 = "Engineering Associates" 
+    title3 = "Corporate Governance"  
 
   [params.contact]
     enable = true
     title = "Contact Us"
     subtitle = "Don’t just take our word for it. Check out some of our latest work."
     [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
+      name = "Name"
+      email = "Email"
+      subject = "Subject"
+      message = "Message"
       button = "Send message"
     [params.contact.box]
       title = "Our Office"

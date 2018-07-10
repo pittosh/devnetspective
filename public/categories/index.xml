@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</title>
+    <link>https://www.example.com/categories/</link>
+    <description>Recent content in Categories on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Newsroom</title>
+      <link>https://www.example.com/categories/newsroom/</link>
+      <pubDate>Mon, 03 Dec 2012 09:40:29 +0000</pubDate>
+      
+      <guid>https://www.example.com/categories/newsroom/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Management</title>
+      <link>https://www.example.com/categories/project-management/</link>
+      <pubDate>Sun, 20 Jul 2008 23:14:25 +0000</pubDate>
+      
+      <guid>https://www.example.com/categories/project-management/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

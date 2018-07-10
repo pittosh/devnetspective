@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About us on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</title>
+    <link>https://www.example.com/about-us/</link>
+    <description>Recent content in About us on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.example.com/about-us/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Clients</title>
+      <link>https://www.example.com/about-us/clients/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/about-us/clients/</guid>
+      <description>Netspective has successfully supported many organizations including Healthcare service providers, Government agencies, Medical Technology firms and other key organizations.
+Several large government agencies have engaged Netspective’s Professional Services group to perform architecture and applications assessments for their components and partners. Netspective has used the Enterprise Architecture Planning Turn-key Service to conduct detailed analysis and reviews of existing government applications and to assist with legacy migration planning issues. Some of our largest engagements have been with</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://www.example.com/about-us/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/about-us/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://www.example.com/about-us/events/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/about-us/events/</guid>
+      <description>   Upcoming Speaking Events Past Speaking Events     Netspective has been invited to speak at the following upcoming events. Here’s a list of past events we’ve spoken at.   See my conferences on Lanyrd See my conferences on Lanyrd    </description>
+    </item>
+    
+    <item>
+      <title>Team</title>
+      <link>https://www.example.com/about-us/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/about-us/team/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

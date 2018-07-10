@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strategy on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</title>
+    <link>https://www.example.com/consulting-services/strategy/</link>
+    <description>Recent content in Strategy on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.example.com/consulting-services/strategy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business</title>
+      <link>https://www.example.com/consulting-services/strategy/business/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/consulting-services/strategy/business/</guid>
+      <description>Business operations in Healthcare and Medical Technology firms are faced with a dire need for financial, operational and clinical performance improvement and optimization. The most successful way to analyze business performance and plan for improvement is by considering 3 essential components: people, process, and technology. Combining and optimizing these 3 components improves financial, operational and clinical performance. Many of the existing processes are not suitable for today’s fast paced and technology centric environments.</description>
+    </item>
+    
+    <item>
+      <title>Innovation</title>
+      <link>https://www.example.com/consulting-services/strategy/innovation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/consulting-services/strategy/innovation/</guid>
+      <description>It takes more than sustaining and improving current value models to operate in today’s Healthcare and Medical Technology business. To build a platform for success in tomorrow’s business environment, new and innovative value models need to be in place as part of the organization’s innovation strategy.
+The HITECH Act offers what may be the most significant opportunity that healthcare providers have ever had, to improve patient care and generate revenue substantially not only as a direct outcome of enhanced operational efficiency but also by way of increased Medicare and Medicaid reimbursements.</description>
+    </item>
+    
+    <item>
+      <title>Product</title>
+      <link>https://www.example.com/consulting-services/strategy/product/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/consulting-services/strategy/product/</guid>
+      <description>Medical devices and applications firms today have an opportunity to radically transform their business in the next five years. The growth is expected to be exponential in the U.S., European and emerging markets.This provides an opportunity for Medical Technology firms to re-look at their product portfolio and develop a product and platform strategy that provides for long term and sustained growth on a global scale.
+Measuring the past portfolio’s success and use of decision support tools to create forecasts for the future would be the first step.</description>
+    </item>
+    
+    <item>
+      <title>Technology</title>
+      <link>https://www.example.com/consulting-services/strategy/technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/consulting-services/strategy/technology/</guid>
+      <description>The pace of technology change in Healthcare and Medical Technology firms is at its highest now and continues to grow. Successful companies are consistently enhancing their technology strategy by either building new ones or improving their existing strategies or integration as part of M&amp;amp;A. Organizations regularly seek validation of their technology implementations or look for help to bring in new ideas, skills and capabilities that ensures return on their short and long term investments in technology.</description>
+    </item>
+    
+    <item>
+      <title>Vendor</title>
+      <link>https://www.example.com/consulting-services/strategy/vendor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/consulting-services/strategy/vendor/</guid>
+      <description>For the Healthcare and Medical Technology industry, executing your strategy efficiently and effectively will require ideas and support from inside your organization and from partners / vendors. As success today and in the future will be enabled by deploying the right technology to automate your processes or for building new products, one needs to put together the right vendor management strategy for all strategic initiatives. To fulfill your vision and execute your business strategy seamlessly, Netspective’s approach to managing partners / vendors can help bring together all resources, processes, best practices and an eco-system that enables selection and effective management.</description>
+    </item>
+    
+  </channel>
+</rss>

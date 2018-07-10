@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deployment on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</title>
+    <link>https://www.example.com/technology-services/deployment/</link>
+    <description>Recent content in Deployment on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.example.com/technology-services/deployment/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://www.example.com/technology-services/deployment/cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/technology-services/deployment/cloud/</guid>
+      <description>Clouds: Driving Down Computing Costs Cloud computing has made quite a stir in the technology industry. Offering a new massively scalable implementation model, cloud computing significantly reduces IT and product costs, optimizes system workload and improves application service delivery for end users and customers. Enterprises in the Healthcare, Government and Medical technology industries are excited by the new dimension available with cloud models, especially the ability to add capabilities without investing in new infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Release Management</title>
+      <link>https://www.example.com/technology-services/deployment/release-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/technology-services/deployment/release-management/</guid>
+      <description>Clouds: Driving Down Computing Costs Incremental feature addition or requests for new features, feature enhancements and bug corrections trigger the start of a new release cycle. Release management starts off with the start of a new release cycle. A release cycle consists of a broad set of activities encompassing planning, design, testing, build, documentation, configuration and deployment.
+Release cycles vary in duration and style based on the kind of software development life cycle followed by an organization.</description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://www.example.com/technology-services/deployment/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.com/technology-services/deployment/security/</guid>
+      <description>Enterprises in the Healthcare, Government and Medical Technology industries have a tricky path to walk if they want to maintain their IT or product security. They must create or incorporate new features and technology to provide better customer experience and also respond proactively to security and privacy threats, all while complying with changing regulatory requirements. Enterprises must identify, characterize and neutralize threats before critical systems are compromised and that means continuous monitoring, assessment and quick responses to threats.</description>
+    </item>
+    
+  </channel>
+</rss>

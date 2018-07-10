@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newsroom on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</title>
+    <link>https://www.example.com/categories/newsroom/</link>
+    <description>Recent content in Newsroom on Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Dec 2012 09:40:29 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.com/categories/newsroom/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Netspective sees Wireless capable medical devices with significant software and data integration are the future</title>
+      <link>https://www.example.com/about-us/newsroom/2012-12-03-netspective-sees-wireless-capable-medical-devices-with-significant-software-and-data-integration-are-the-future/</link>
+      <pubDate>Mon, 03 Dec 2012 09:40:29 +0000</pubDate>
+      
+      <guid>https://www.example.com/about-us/newsroom/2012-12-03-netspective-sees-wireless-capable-medical-devices-with-significant-software-and-data-integration-are-the-future/</guid>
+      <description>Summary Netspective, a premium consulting and services firm in the Healthcare and Medical Devices industry announced new approaches for Medical Device firms that would aid in generating revenue and profits, with focus on wireless capable medical devices with software and data integration, to address headwinds they face today.
+Story Hundreds of executives and staff in the medical device manufacturing industry gathered in Boston on November 28 to learn about how Wireless capable medical devices could significantly improve patient care.</description>
+    </item>
+    
+    <item>
+      <title>Netspective advises medical device manufacturers to get into software, services, and health data integration to help offset revenue losses.</title>
+      <link>https://www.example.com/about-us/newsroom/2012-11-12-netspective-advises-medical-device-manufacturers-to-get-into-software-services-and-health-data-integration-to-help-offset-revenue-losses/</link>
+      <pubDate>Mon, 12 Nov 2012 08:51:22 +0000</pubDate>
+      
+      <guid>https://www.example.com/about-us/newsroom/2012-11-12-netspective-advises-medical-device-manufacturers-to-get-into-software-services-and-health-data-integration-to-help-offset-revenue-losses/</guid>
+      <description>Summary Netspective, a premium consulting and services firm in Healthcare and Medical Devices industries announced new approaches for Medical Devices firms to grow revenue and profits with focus on software, services and data to offset losses from ACA Excise Tax cost and other headwinds they face today.
+Story Hundreds of medical device manufacturer executives, hospital executives, and staff gathered in Boston on November 1 to learn about how “connected devices” can significantly improve patient care and could reduce healthcare costs.</description>
+    </item>
+    
+  </channel>
+</rss>
