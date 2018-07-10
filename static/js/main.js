@@ -67,6 +67,20 @@ $(document).ready(function(){
 	       scrollTop: ($(target).offset().top)
 	    }, 2000);
     });
+    
+    $(".scroll-top").on('click', function(e) {
+    	e.preventDefault();
+    	jQuery('html,body').animate({scrollTop:0},2000);
+    });
+
+    $(document).scroll(function() {
+	  var y = $(this).scrollTop();
+	  if (y > 800) {
+	    $('.scroll-top').fadeIn();
+	  } else {
+	    $('.scroll-top').fadeOut();
+	  }
+	});
 
 
 });

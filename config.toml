@@ -1,5 +1,5 @@
 title = "Netspective - Consulting and Solutions for Regulated IT and Engineering services - Government, Health and Medical Technology"
-baseURL = "https://devnetspective.netlify.com/"
+baseURL = ""
 languageCode = "en-us"
 theme = "airspace-hugo"
 
@@ -350,7 +350,7 @@ theme = "airspace-hugo"
     enable = true
     title = "Breaking News: Frost and Sullivan confers Netspective with"
     content = "New Product Innovation Award Medical Device Interoperability North America, 2013"
-    image = "/img/Netspective-Communications-Award-Logo-150x150.jpg"
+    image = "img/Netspective-Communications-Award-Logo-150x150.jpg"
     [params.feature.button]
       caption = "View Works"
       url = "#"

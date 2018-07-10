@@ -3,7 +3,7 @@
         	{{ range sort .Site.Data.solutions.cak.cak_features "weight" }}
         	<div class="col-md-4">
         		<h4>{{ .name }}</h4>
-        		<img src="{{ .image }}"/>
+        		<img src="{{ .Site.BaseURL}}{{ .image }}"/>
         		<p>{{ .description }}</p>
         	</div>
         	{{ end }}

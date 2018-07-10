@@ -294,7 +294,7 @@ td, th {
   background-color: #ffb60f;
 }
 #cak-features h4{
-  margin-top: 25px;
+  padding-top: 25px;
 }
 #cak-features p{
   margin-top: 25px;
@@ -332,6 +332,7 @@ td, th {
 }
 #global-header{  
   background: url(../img/header-bg.jpg) no-repeat;
+  background-size: cover !important;
 }
 #global-header .block-section {
     color: #E3E3E4;
@@ -388,6 +389,18 @@ td, th {
     width: 20%;
     float: left;
 }
+@media (max-width: 767px){
+  #global-header {
+    padding-top: 30px;
+    padding-bottom: 58px;
+  }
+  .block-divide p img{
+    width: 100%;
+  }
+  .feature-content{
+    margin-bottom: 20px;
+  }
+}
 @media (min-width: 768px) {
 .col-sm-5 {
         width: 20%;
@@ -406,7 +419,8 @@ td, th {
         width: 20%;
         float: left;
     }
-    #slider .container {
+    #slider .container,
+    #submenu .container{
       width: 990px;
     }
 }
