@@ -1,0 +1,21 @@
+<!-- Slider Start -->
+<section id="global-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <div class="block-section">
+            <h1>{{ .Site.Data.solutions.cak.banner.banner.title }}</h1>
+            <p>{{ .Site.Data.solutions.cak.banner.banner.description }}<br></p>
+            <div class="col-md-2"></div>       
+              {{ range .Site.Data.solutions.cak.banner.banner.content }}
+                <div class="col-md-2">
+                <div><a class="scroll-to" href="#{{ .link }}"><img src="{{ .image }}" alt="{{ .name }}"></a></div>
+                <div><a class="scroll-to" href="#{{ .link }}"><span>{{ .name }}</span></a></div>
+                </div>
+              {{ end }}
+              <div class="col-md-2"></div> 
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,16 +1,16 @@
 enable: true
-title: Netspective.TV
-subtitle: Medical Technology, Healthcare & Government IT
+title: Just some of our latest projects.
+subtitle: Don’t just take our word for it. Check out some of our latest work.
 
 portfolio:
 - category: Presentations
   slug: presentations
   rows:
   - category: The No BS Guide to Developing a Healthcare Enterprise Integration Strategy
-    url: "#"
+    url: "/about-us/netspective-tv/the-no-bs-guide-to-developing-a-healthcare-enterprise-integration-strategy/"
     image: "/img/netspective.tv/HXR.jpg"
     name: The No BS Guide to Developing a Healthcare Enterprise Integration Strategy
-    slug: presentations
+    slug: ["presentations","videos"]
   - category: CISQ Quality Standard Overview and Integrating Security into your Systems Development Lifecycle (SDLC)
     url: "#"
     image: "/img/netspective.tv/cisq.jpg"
