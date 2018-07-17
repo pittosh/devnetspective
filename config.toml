@@ -265,8 +265,38 @@ theme = "airspace-hugo"
       [[menu.header]]
       parent = "solutions"
       weight = 1
+      name = "Attest"
+      url = "/solutions/attest" 
+      [[menu.header]]
+      parent = "solutions"
+      weight = 2
       name = "CAK"
-      url = "/solutions/cak"  
+      url = "/solutions/cak" 
+      [[menu.header]]
+      parent = "solutions"
+      weight = 3
+      name = "Contexxio"
+      url = "/solutions/contexxio" 
+      [[menu.header]]
+      parent = "solutions"
+      weight = 5
+      name = "Fluent"
+      url = "/solutions/fluent" 
+      [[menu.header]]
+      parent = "solutions"
+      weight = 10
+      name = "Stature"
+      url = "/solutions/stature"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 8
+      name = "Opsfolio"
+      url = "/solutions/opsfolio"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 11
+      name = "Watchtower"
+      url = "/solutions/watchtower"
 
   [[menu.social]]
     name = "fa fa-google-plus"
@@ -280,23 +310,6 @@ theme = "airspace-hugo"
   [[menu.social]]
     name = "fa fa-twitter"
     url = "https://twitter.com/netspective" 
-
-  [[menu.cak]]
-    name = "Why CAK?"
-    url = "#why-cak"
-    weight = 1
-  [[menu.cak]]
-    name = "What is it?"
-    url = "#what-is-cak"
-    weight = 2
-  [[menu.cak]]
-    name = "Features"
-    url = "#research"
-    weight = 3
-  [[menu.cak]]
-    name = "Clients"
-    url = "#clients" 
-    weight = 4  
 
   [[menu.footer]]
     weight = 1
