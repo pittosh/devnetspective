@@ -2,5 +2,5 @@
 title: "Ryohee"
 image: "/img/solutions/fluent/Ryohee.jpg"
 type: "clients-fluent"
-weight: 7
+weight: 9
 ---

@@ -7,7 +7,9 @@
 
 	           <h1>{{ .Params.banner_title | safeHTML }}</h1>
                <p>{{ .Params.banner_content | safeHTML }}<br></p>
-
+               	{{ if isset .Params "banner_image" }}
+                <p><img src="{{ .Params.banner_image }}" alt="{{ .Title }}"></p>
+	            {{ end }}
 	            
 	            {{ range .Data.Pages }}
 	            {{ if (isset .Params "section_icon_image")}}

@@ -297,6 +297,22 @@ theme = "airspace-hugo"
       weight = 11
       name = "Watchtower"
       url = "/solutions/watchtower"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 6
+      name = "Medigy"
+      url = "/solutions/medigy"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 9
+      name = "ProveIT"
+      url = "/solutions/proveit"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 7
+      name = "Netspective Unified Process"
+      url = "/solutions/nup"
+      
 
   [[menu.social]]
     name = "fa fa-google-plus"
@@ -394,4 +410,4 @@ theme = "airspace-hugo"
       email = "Email: sales@netspective.com"
       phone = "Phone: (202) 657-4064"
     [params.contact.gmaps]
-      title = "We Also Count in Google Maps" 
+      title = "We Also Count in Google Maps"

@@ -82,22 +82,32 @@ $(document).ready(function(){
 	  }
 	});
 
+	$('.-accordion').asAccordion({
+	    namespace: '-accordion',
+	    skin: null,
 
-});
+	    // breakpoint for mobile devices. WIP
+	    mobileBreakpoint: 768,
 
+	    // initial index panel
+	    initialIndex: 0,
 
+	    // CSS3 easing effects.
+	    easing: 'ease-in-out',
 
+	    // animation speed.
+	    speed: 500,
 
-$(document).ready(function(){
-    // Add minus icon for collapse element which is open by default
-    $(".collapse.in").each(function(){
-    	$(this).siblings(".panel-heading").find(".glyphicon").addClass("glyphicon-minus").removeClass("glyphicon-plus");
+	    // vertical or horizontal
+	    direction: 'horizontal',
+
+	    // jQuery mouse events. click, mousehover, etc.
+	    event: 'click',
+
+	    // multiple instance
+	    multiple: false
+
     });
-    
-    // Toggle plus minus icon on show hide of collapse element
-    $(".collapse").on('show.bs.collapse', function(){
-    	$(this).parent().find(".glyphicon").removeClass("glyphicon-plus").addClass("glyphicon-minus");
-    }).on('hide.bs.collapse', function(){
-    	$(this).parent().find(".glyphicon").removeClass("glyphicon-minus").addClass("glyphicon-plus");
-    });
+
+
 });
