@@ -24,7 +24,7 @@
           <div class="carousel-inner">
             {{ range sort .Site.Data.slider "weight" }}
             <div class="item {{ .class }}">
-              <img src="{{ .Site.BaseURL}}{{ .image }}" alt="{{ .name }}">
+              <img src="{{ .image }}" alt="{{ .name }}">
             </div>            
             {{ end }}                  
           </div>

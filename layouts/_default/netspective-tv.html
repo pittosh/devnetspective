@@ -18,32 +18,34 @@
               </div>
               <div class="portfolio-menu">
                 <ul>
-                    <li class="filter" data-filter="all">Everything</li>
-                  {{ range .Site.Data.work.portfolio }}
-                    <li class="filter" data-filter=".{{ .slug }}">{{ .category }}</li>
-                  {{ end }}
+                  <li class="filter" data-filter="all">Everything</li>
+                               
+                      <li class="filter" data-filter=".presentations">Presentations</li>
+                      <li class="filter" data-filter=".shahidshah">Shahid shah</li>
+                      <li class="filter" data-filter=".video">Video</li>               
+                  
                 </ul>
               </div>
               <div class="portfolio-contant">
-                <ul id="portfolio-contant-active">
-                  {{ range .Site.Data.work.portfolio}}
-                  {{ range .rows }}
-                    <li class="mix {{ .slug }}">
-                      <a href="{{ .url }}">
-                        <img src="{{ $.Site.BaseURL }}{{ .image }}" alt="">
+                <ul id="portfolio-contant-active">   
+       
+                  {{ range .Data.Pages }}
+                  {{$slug := delimit .Params.catslug " " }}                  
+                    <li class="mix {{ $slug }}">
+                      <a href="{{ .Params.url }}">
+                        <img src="/{{ .Params.image }}" alt="">
                         <div class="overly">
                           <div class="position-center">
-                            <h2>{{ .name }}</h2>
-                            <!--<p>{{ .description }}</p>-->
-
+                            <h2>{{ .Title }}</h2>
                           </div>
                         </div>
                       </a>
                   </li>
                   {{ end }}
-                  {{ end }}
+
                 </ul>
               </div>
+              
             </div>
           </div>
         </div>

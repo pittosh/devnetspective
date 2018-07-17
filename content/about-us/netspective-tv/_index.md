@@ -1,5 +1,5 @@
 ---
 title: Netspective.TV
-type: post
+type: page
 layout: netspective-tv
 ---

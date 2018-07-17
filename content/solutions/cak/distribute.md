@@ -1,8 +1,9 @@
 ---
 title: Distribute
-type: post
+type: page
 slug: distribute
 weight: 6
+section_icon_image: img/solutions/cak/distribution.png
 ---
 ### Say Good-bye to Manual Content Distribution
 

@@ -1,9 +1,9 @@
 ---
 title: Clients
-type: post
+type: page
 slug: clients
 weight: 7
+section_menu_label: Clients
 ---
 
-* ![cak-assemble](/img/solutions/cak/Netspective-Communications.jpg)
-* ![cak-assemble](/img/solutions/cak/Aliim.jpg)
+{{<clients type="clients">}}

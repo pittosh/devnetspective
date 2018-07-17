@@ -1,8 +1,9 @@
 ---
 title: Curate
-type: post
+type: page
 slug: curate
 weight: 5
+section_icon_image: img/solutions/cak/curate.png
 ---
 
 ![cak-curate](/img/solutions/cak/cak-curate.jpg#center)

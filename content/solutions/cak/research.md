@@ -1,8 +1,10 @@
 ---
 title: Research
-type: post
+type: page
 slug: research
 weight: 3
+section_icon_image: img/solutions/cak/research.png
+section_menu_label: Features
 ---
 
 **Marketing Relief for Busy Businesses**

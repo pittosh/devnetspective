@@ -11,6 +11,25 @@ Fluent is a healthcare professional and patient centric solution that connects d
 The Fluent platform can be deployed on a cloud, as an on-premises solution, and behind a corporate firewall. Fluent provides the ability to create third party custom health care applications on the framework via an API. EHR modules created by the system are MU certifiable, and HIPAA, ARRA, NIST compliant.
 
 
+**Fluent’s key features:**
+
+* Device Management	
+* Device Provisioning and Configuration	
+* Connectivity to Customer Cloud
+* Remote Service	
+* Connectivity	
+* Regulation
+* User Management
+
+* Privacy and Security	
+* Performance Characteristics
+* Time Synchronization	
+* Data Storage	
+* Documentation
+* User Interface	
+* Serviceability	
+
+
 **Technical Specifications:**
 
 **O.S.:** Linux but portable to other platforms.
@@ -29,11 +48,12 @@ Fluent delivers several business and operational benefits to Health care provide
 
 Operational benefits: The system has the capability to connect hospital systems, personal handheld devices of doctors, cross organizational connectivity and cloud services. The system shall have the capability to perform the following functions:
 
-Interact with the medical device and record the vitals of the patients
-Monitor the patient information, detect security threats and vulnerabilities, perform troubleshooting and run diagnostics on the information retrieved
-Enable Software as a Service (SaaS) and cloud models
-Connect to other EMR devices, and other systems in the healthcare facility
-Perform data analysis, device usage analysis, patient vital information analysis
-Able to connect to third party software/applications through the network
+* Interact with the medical device and record the vitals of the patients
+* Monitor the patient information, detect security threats and vulnerabilities, perform troubleshooting and run diagnostics on the information retrieved
+* Enable Software as a Service (SaaS) and cloud models
+* Connect to other EMR devices, and other systems in the healthcare facility
+* Perform data analysis, device usage analysis, patient vital information analysis
+* Able to connect to third party software/applications through the network
+
 We bring in industry interoperatability standards like ICE and plan to support future standards like UL2800 to provide seamless integration and ensure the devices function interdependently as architected.
 

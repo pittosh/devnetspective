@@ -1,8 +1,9 @@
 ---
 title: What is Netspective CAK?
-type: post
+type: page
 slug: what-is-cak
 weight: 2
+section_menu_label: What is it?
 ---
 
 **A Content Marketing Team that Never Sleeps**

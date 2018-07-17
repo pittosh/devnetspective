@@ -1,8 +1,9 @@
 ---
 title: Why Netspective CAK?
-type: post
+type: page
 slug: why-cak
 weight: 1
+section_menu_label: Why CAK?
 ---
 
 **Have a great product or service but no marketing staff?**
@@ -25,3 +26,4 @@ The Netspective™ Content Assembler Kit helps you avoid the time, costs and has
 In short, the CAK helps you launch successful content marketing campaigns, even if there’s not a marketing professional in sight.
 
 
+{{<benefits type="cak" column="4">}}

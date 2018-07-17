@@ -1,8 +1,9 @@
 ---
 title: Assemble
-type: post
+type: page
 weight: 4
 slug: assemble
+section_icon_image: img/solutions/cak/assemble.png
 ---
 
 **High-Quality Marketing Content:**
