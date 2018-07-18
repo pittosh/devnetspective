@@ -10,6 +10,9 @@
                	{{ if isset .Params "banner_image" }}
                 <p><img src="{{ .Params.banner_image }}" alt="{{ .Title }}"></p>
 	            {{ end }}
+                {{ if isset .Params "banner_sub_title" }}	            
+	                <p><b>{{ .Params.banner_sub_title | safeHTML }}<br></b></p>
+	            {{ end }}
 	            
 	            {{ range .Data.Pages }}
 	            {{ if (isset .Params "section_icon_image")}}

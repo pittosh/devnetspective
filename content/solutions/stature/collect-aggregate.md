@@ -4,6 +4,8 @@ type: page
 slug: collect-aggregate
 weight: 3
 section_menu_label: Features
+section_icon_label: Collect/ Aggregate
+section_icon_image: img/solutions/stature/Collect.png
 ---
 
 #### Data Collected and Organized for Maximum Transparency

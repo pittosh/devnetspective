@@ -312,6 +312,11 @@ theme = "airspace-hugo"
       weight = 7
       name = "Netspective Unified Process"
       url = "/solutions/nup"
+      [[menu.header]]
+      parent = "solutions"
+      weight = 4
+      name = "EasyRyde"
+      url = "/solutions/easyryde"
       
 
   [[menu.social]]
