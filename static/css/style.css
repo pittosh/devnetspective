@@ -616,6 +616,116 @@ td, th {
 .btn-register{
   margin-right: 20px;
 }
+.-accordion__heading > .-icon{
+  color:#e54e19 !important;
+}
+.form-section-block{
+  width: 100%;
+  float: left;
+  min-height: 400px;
+  padding-top: 40px;
+}
+.logo {
+    top: 25px;
+    left: 25px;
+}
+  .register{
+    background-color: #e64e00;
+    border-color: #e64e00;
+    font-size: 15px !important;
+    text-transform: uppercase;
+    border-radius: 5px;
+    color: #fff;
+    border-style: solid !important;
+    border-width: 1px !important;
+  }
+  .register:hover{
+    background-color: #e64e00;
+    border-color: #e64e00;
+
+  }
+  .form-section{
+    max-width: 636px;
+    display: block;
+    margin: 0 auto;
+  }
+.fdsocial {
+    background: url(/img/facebook.png);
+    width: 20px;
+    height: 31px;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.twsocial {
+    background: url(/img/twitter.png);
+    width: 20px;
+    height: 31px;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.gpsocial {
+    background: url(/img/g.png);
+    width: 20px;
+    height: 31px;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.yosocial {
+    background: url(/img/youtube.png);
+    width: 20px;
+    height: 31px;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.lnsocial {
+    background: url(/img/in.png);
+    width: 20px;
+    height: 31px;
+    float: left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.register-footer {
+    background: #cccccc;
+    color: #333333;
+    text-align: center;
+    padding: 0px;
+    float: left;
+    width: 100%;
+}
+
+.register-footer div {
+    background: #cccccc;
+    color: #333333;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+}
+.register-footer .fdcont {
+    float: left;
+    width: 100%;
+    font-size: 13px;
+}
+.register-footer .footul {
+    float: none;
+    width: 15%;
+    margin: auto;
+    padding-top: 2%;
+}
+
+.footul li{
+  padding: 0;
+  margin: 0;
+  list-style: none !important;
+  display: inline-block;
+}
+
+
 .col-xs-5,
 .col-sm-5,
 .col-md-5,
