@@ -624,6 +624,10 @@ td, th {
   float: left;
   min-height: 400px;
   padding-top: 40px;
+  background: #eee
+}
+.form-control{
+  height: 45px;
 }
 .logo {
     top: 25px;
@@ -645,7 +649,7 @@ td, th {
 
   }
   .form-section{
-    max-width: 636px;
+    max-width: 800px;
     display: block;
     margin: 0 auto;
   }
