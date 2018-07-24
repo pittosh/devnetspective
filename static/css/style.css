@@ -1165,7 +1165,6 @@ color: #666;
 .navbar-default .navbar-nav ul.dropdown-menu li:first-child a{border-radius:4px 4px 0 0;}
 .navbar-default .navbar-nav ul.dropdown-menu li{padding-bottom:0px !important}
 
-
 @media (min-width: 768px){
   .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
     margin-left: -35px !important;
