@@ -2,6 +2,8 @@
 title = "Thought Leadership"
 type  = "page"
 layout = "menu-level-one"
+keywords = "Medical Technology, Healthcare & Government IT"
+description = "Welcome to our Thought Leadership Page where you will find interesting artifacts and discussions on technology and Industry topics on Healthcare, Government and Medical Technology. We've a viewpoint on many of these topics, but are open to hear what you thinks about these thoughts and hear from you. Please use Subscribe to our blogs hellip"
 +++
 
 Welcome to our Thought Leadership Page where you will find interesting artifacts and discussions on technology and Industry topics on Healthcare, Government and Medical Technology.
