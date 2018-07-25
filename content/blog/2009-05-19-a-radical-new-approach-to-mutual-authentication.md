@@ -41,7 +41,7 @@ The act of establishing identity is identification. Identity Systems must posses
 
 The basic flaws and limitations in current identity technologies for websites prevalent in the World Wide Web SSL/Digital Certificates (when used for AUTHENTICATION) become apparent in the context of the axiomatic frame of reference defined in the following sections.
 
-**Definition of Relative Identity** The relative identity of an entity is
+**Definition of Relative Identity** The relative identity of an entity is 
 
   1. Distributed among the relationship of this entity with other entities. Each such valid relationship 
       * constitutes a unit Relative Identity an important and inseparable constituent of the identities of each of the entities sharing a valid relationship
