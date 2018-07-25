@@ -56,4 +56,4 @@ sudo ln -s /opt/boost\_1\_48_0/lib/* /lib
   
 sudo ln -s /opt/boost\_1\_48_0/include/* /usr/include
 
- [1]: http://sourceforge.net/projects/boost/files/boost/1.48.0/
+ [1]: https://sourceforge.net/projects/boost/files/boost/1.48.0/

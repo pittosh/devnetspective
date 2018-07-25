@@ -24,12 +24,12 @@ Of course there are many projects that don&#8217;t have direct coding tasks &#82
 
   * Read 
       * Git Best Practices 
-          * <http://sethrobertson.github.com/GitBestPractices/>
+          * <https://sethrobertson.github.com/GitBestPractices/>
       * Keep commits small, logical, and specific to a single task; commit early and commit often, document commit messages really well. In CVS, Subversion, and other revision control systems larger commits are encouraged but don&#8217;t do that in Git.
       * Group multiple commits into a push at regular intervals when it won&#8217;t break someone else&#8217;s code
-      * See this for an example of good messages, commits, and pushes: http://rcs.cm.netspective.com/bfelob-oge-findiscnonpas/commits
+      * See this for an example of good messages, commits, and pushes: https://rcs.cm.netspective.com/bfelob-oge-findiscnonpas/commits
       * Some other guidelines to review: 
-          * <http://www.lullabot.com/articles/git-best-practices-workflow-guidelines>
+          * <https://www.lullabot.com/articles/git-best-practices-workflow-guidelines>
           * <https://wiki.duraspace.org/display/FCREPO/Git+Guidelines+and+Best+Practices>
     
       * Probably need to create a Netspective blog post about this
