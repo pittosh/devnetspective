@@ -1158,7 +1158,7 @@ color: #666;
     background-image: -moz-linear-gradient(top,#d9d9d9,#bfbfbf);
     background-image: -ms-linear-gradient(top,#d9d9d9,#bfbfbf);
     background-image: -o-linear-gradient(top,#d9d9d9,#bfbfbf);
-    background-image: linear-gradient(top,#d9d9d9,#bfbfbf);;
+    background-image: linear-gradient(top,#d9d9d9,#bfbfbf);
 }
 .navbar-default .navbar-nav ul.dropdown-menu{border-radius: 4px;}
 .navbar-default .navbar-nav ul.dropdown-menu li:first-child {border-radius:4px 4px 0 0;}
@@ -1174,7 +1174,7 @@ color: #666;
   }
   .navbar-right .dropdown-menu {
     right: auto;
-    left: 15px; 
+    left: 15px;
   }
   .navbar-right .dropdown-menu  .dropdown-menu {
     right: auto;
