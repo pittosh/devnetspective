@@ -62,12 +62,21 @@ Netspective’s content and document management and collaboration solutions have
 * Reduced dependence on off-site storage
 
 ### SharePoint
+![sharepoint](/img/technology-services/sharepoint.jpg#right)
 
 SharePoint is a Microsoft offering and a web-based tool with an integrated suite of functionalities that can help organizations improve efficiency by providing comprehensive content 
-
-![sharepoint](/img/technology-services/sharepoint.jpg#left)
-
 
 management,SharePoint server collaboration solutionsenterprise search and business intelligence capabilities by accelerating shared business processes, and by facilitating information sharing and collaboration across the organization.
 
 SharePoint has numerous features that help organizations connect people, information and functionality. These features combine together to make SharePoint a powerful portal solution that provides a single point of access to people, teams, knowledge, and applications. Some of its features are described below:
+
+* SharePoint provides multi-featured collaborative portal sites by unifying and enhancing the features and capabilities of SharePoint and by adding new functionalities and management controls.
+* SharePoint connects people to information and to each other in a secured manner, making it easier to locate and communicate with individuals who have information that can help run an organization better.
+* SharePoint makes information easier to find by providing a powerful search feature that locates the information you need and alerts you about changes or additions that are of interest to you.
+* SharePoint is a powerful platform for application integration, providing organizations with the opportunity to integrate their business applications into a single portal.
+* Strong content management features make it easy and simple for an organization to access and manage information.
+
+Netspective has over the years gained considerable experience and expertise in SharePoint implementation across various business verticals. Netspective was an early adapter of SharePoint, and our teams and our solutions portfolio have grown with the product. Netspective is focused on R&D around the SharePoint platform for the benefit of our customers. Netspective enhances user experience with simple, familiar and consistent user interfaces, simplifies organization-wide access to both structured and unstructured information, and enables people to take better-informed decisions by providing easy access to business critical information.
+
+We can assist you in designing a scalable SharePoint portal that will give you maximum results with minimum inputs. We can enhance your organization’s efficiency by providing a platform for sharing information and working together in teams, communities and with people-driven processes. Our workflow designs can help you automate your business processes in a better way, and thus increase enterprise productivity. We can help you migrate to newer versions of SharePoint including SharePoint 2010. We can customize SharePoint Enterprise Search to meet the specific requirements of a given enterprise. We have the expertise to develop custom web parts to provide custom functionalities to SharePoint. We understand the true value of SharePoint and what a forward looking enterprise can do with it. We can help you derive tangible benefits from your SharePoint implementation.
+
