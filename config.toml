@@ -407,7 +407,7 @@ enableRobotsTXT ="true"
     subtitle = "Catch up with us, anytime and anywhere"
 
   [params.feature]
-    enable = true
+    enable = false
     title = "Breaking News: Frost and Sullivan confers Netspective with"
     content = "New Product Innovation Award Medical Device Interoperability North America, 2013"
     image = "img/Netspective-Communications-Award-Logo-150x150.jpg"
