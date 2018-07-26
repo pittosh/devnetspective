@@ -4,6 +4,7 @@ metatitle = "Content - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Organizations today need easy access to relevant and accurate information to perform at peak levels. Providing that information at the time and in the format that it is required is Netspective's primary concern. Most organizations have a wealth of information both structured and unstructured that has accumulated over time. This information can be a strategic hellip"
+path =  "img/technology-services/sharepoint.jpg"
 +++
 
 Organizations today need easy access to relevant and accurate information to perform at peak levels. Providing that information at the time and in the format that it is required is Netspective’s primary concern. Most organizations have a wealth of information both structured and unstructured that has accumulated over time. This information can be a strategic asset if properly collated, categorized and analyzed. The insights gained from such an exercise can provide valuable inputs in the tactical decision making process. Netspective provides organizations with that strategic advantage.

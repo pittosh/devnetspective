@@ -4,6 +4,8 @@ metatitle = "Cloud-Architecture,Infrastructure,SaaS-Government,Healthcare, Medic
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Netspective uses the power of clouds to bring greater scalability, reduced risk, total disaster recovery and impressive up-times to organizations."
+path =  "img/technology-services/cloud-computing.jpg"
+
 +++
 ### Clouds: Driving Down Computing Costs
 
