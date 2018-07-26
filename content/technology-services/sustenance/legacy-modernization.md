@@ -1,5 +1,6 @@
 +++
 title = "Legacy Modernization"
+metatitle = "Legacy Modernization - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Nobody wants to be saddled with clunky, obsolete legacy applications. After all, the core systems have undergone so many changes over the years that the source code has become defunct and virtually impossible to update. As if that wasn't bad enough, these apps may not offer good Web integration options, handle data slowly and clumsily, hellip"
