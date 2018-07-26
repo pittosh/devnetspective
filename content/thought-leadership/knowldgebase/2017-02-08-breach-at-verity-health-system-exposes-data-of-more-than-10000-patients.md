@@ -6,6 +6,7 @@ url = "/thought-leadership/knowldgebase/breach-at-verity-health-system-exposes-d
 categories = "Cybersecurity"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Verity Medical Foundation-San Jose Medical Group website part of the Verity Health System in Redwood California was hacked exposing the data of 10164 patients Verity includes six California hospitals the Verity Medical Foundation and Verity Physician Network"
+path =  "blog/Breach_at__1486552608-300x169.png"
    
 
 +++

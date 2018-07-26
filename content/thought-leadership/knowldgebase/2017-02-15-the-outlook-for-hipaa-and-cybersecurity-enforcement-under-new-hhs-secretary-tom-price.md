@@ -6,6 +6,7 @@ url =  "/thought-leadership/knowldgebase/the-outlook-for-hipaa-and-cybersecurity
 categories = "Cybersecurity"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Newly confirmed Department of Health and Human Services Secretary Tom Price is no fan of federal regulations leaving providers and cybersecurity leaders wondering how his views will translate to HIPAA and cybersecurity enforcement Given his previous statements on burdensome Meaningful Use requirements HIPAA and the HITECH Act could see decreased enforcement or even regulatory reform"
+path =  "blog/The_outloo_1487152254-300x172.jpg"
 +++
  ![assement-process](/blog/The_outloo_1487152254-300x172.jpg#center) </br>
  Newly confirmed Department of Health and Human Services Secretary Tom Price is no fan of federal regulations leaving providers and cybersecurity leaders wondering how his views will translate to HIPAA and cybersecurity enforcement Given his previous statements on burdensome Meaningful Use requirements HIPAA and the HITECH Act could see decreased enforcement or even regulatory reform

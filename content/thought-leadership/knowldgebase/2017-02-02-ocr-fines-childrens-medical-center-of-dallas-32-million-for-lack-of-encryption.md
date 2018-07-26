@@ -6,6 +6,8 @@ url = "/thought-leadership/knowldgebase/ocr-fines-childrens-medical-center-of-da
 categories = "Cybersecurity"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "The US Department of Health and Human Services Office for Civil Rights fined Childrens Medical Center of Dallas 32 million for HIPAA noncompliance and impermissible disclosure of unsecured ePHI stemming from two data breaches caused by a lack of encryption HHS announced today."   
+path =  "blog/OCR_fines__1486032311-300x169.jpg"
+
 +++
  ![assement-process](/blog/OCR_fines__1486032311-300x169.jpg#center) 
 
