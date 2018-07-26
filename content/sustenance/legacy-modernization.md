@@ -7,7 +7,6 @@ description = "Nobody wants to be saddled with clunky, obsolete legacy applicati
 
 Nobody wants to be saddled with clunky, obsolete legacy applications. After all, the core systems have undergone so many changes over the years that the source code has become defunct and virtually impossible to update.
 
-![legacy-modernization](/img/technology-services/legacy-modernization.jpg#left)
 
 As if that wasn’t bad enough, these apps may not offer good Web integration options, handle data slowly and clumsily, have connectivity and integration problems, offer little room for adding new services and functions and often get little or no support from the companies that created them.
 
