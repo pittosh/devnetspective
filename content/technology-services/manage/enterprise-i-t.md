@@ -8,7 +8,7 @@ path =  "img/technology-services/img-federal.jpg"
 +++
 Enterprise IT planning is an immensely valuable process. It helps organizations create technically viable, cost effective projects which are easy to execute. It also capitalizes on existing technology investments, allowing enterprises scale their infrastructure to accommodate future upgrades and enhancements. This process can be particularly helpful in government, where systems often cut across agency boundaries and highly varied technologies.
 
-![identity-management](/img/technology-services/img-federal.jpg#right)
+![identity-management](img/technology-services/img-federal.jpg#right)
 
 But developing government IT plans is a big job. It requires in-depth technical knowledge, deep expertise in enterprise architecture design and enterprise application Integration, and extensive domain exposure to come up with a comprehensive enterprise IT implementation plan.
 
@@ -42,7 +42,7 @@ Enterprise Architecture brings the following advantages to an organization:
 
 ### Guiding you through Enterprise Architecture planning
 
-![blueprint](/img/technology-services/blueprint.jpg#left)
+![blueprint](img/technology-services/blueprint.jpg#left)
 
 Netspective has carried out numerous EA implementations, and has in the process acquired a wealth of knowledge that it can leverage to steer organizations through key phases of the process. Our Enterprise Architects work hand in hand with clients, and create iterative and incremental models based on use-cases and business rules to arrive at a model that is uniquely suited to a particular organization.
 
@@ -63,7 +63,7 @@ First we assess your business drivers and corporate strategy. Using that underst
 
 ### The NEAP Process
 
-![neap-process](/img/technology-services/neap-process.gif#left)
+![neap-process](img/technology-services/neap-process.gif#left)
 
 
 

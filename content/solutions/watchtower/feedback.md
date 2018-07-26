@@ -7,7 +7,7 @@ section_icon_label: Feedback Management
 section_icon_image: img/solutions/watchtower/Feedback-Management.png
 ---
 
-![feedback](/img/solutions/watchtower/feedback.png#center)
+![feedback](img/solutions/watchtower/feedback.png#center)
 
 The Quickest Road to Quality and Customer Satisfaction
 
