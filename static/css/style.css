@@ -110,6 +110,10 @@ img[src*='#center'] {
   font-size: 25px;
   font-weight: normal;
 }
+#service{
+padding-top:0;
+padding-bottom:30px;
+}
 .industries i{
   color: #034462 !important;
   font-size: 60px;
@@ -236,6 +240,7 @@ img[src*='#center'] {
 }
 #intro {
     padding: 25px 0;
+    padding-bottom:0;	
 }
 #page .post-area,
 #team .post-area{
