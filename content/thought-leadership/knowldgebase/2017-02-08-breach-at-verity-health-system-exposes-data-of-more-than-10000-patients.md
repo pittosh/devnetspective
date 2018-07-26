@@ -1,5 +1,6 @@
 +++
 title = "Breach at Verity Health System exposes data of more than 10000 patients"
+metatitle = "Breach at Verity Health System exposes data of more than 10000 patients - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/breach-at-verity-health-system-exposes-data-of-more-than-10000-patients/"
 categories = "Cybersecurity"

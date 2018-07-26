@@ -1,5 +1,6 @@
 +++
 title = "HIMSS17 A Preview of Healthcare Cybersecurity Happenings"
+metatitle = "HIMSS17 A Preview of Healthcare Cybersecurity Happenings - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/himss17-a-preview-of-healthcare-cybersecurity-happenings/"
 categories = "Cybersecurity"

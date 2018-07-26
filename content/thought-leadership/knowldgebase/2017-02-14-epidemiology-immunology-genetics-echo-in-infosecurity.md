@@ -1,5 +1,6 @@
 +++
 title = "Epidemiology Immunology Genetics Echo in InfoSecurity"
+metatitle = "Epidemiology Immunology Genetics Echo in InfoSecurity - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/epidemiology-immunology-genetics-echo-in-infosecurity/"
 categories = "Cybersecurity"

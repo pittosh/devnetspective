@@ -1,5 +1,6 @@
 +++
 title = "Hospitals as Cyber-Targets How to Prepare for the Inevitable Data Breach"
+metatitle = "Hospitals as Cyber-Targets How to Prepare for the Inevitable Data Breach - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/hospitals-as-cyber-targets-how-to-prepare-for-the-inevitable-data-breach/"
 categories = "Cybersecurity"

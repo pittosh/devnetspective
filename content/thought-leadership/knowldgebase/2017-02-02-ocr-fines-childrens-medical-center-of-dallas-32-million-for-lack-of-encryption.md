@@ -1,5 +1,6 @@
 +++
 title = "OCR fines Childrens Medical Center of Dallas 32 million for lack of encryption"
+metatitle = "OCR fines Childrens Medical Center of Dallas 32 million for lack of encryption - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/ocr-fines-childrens-medical-center-of-dallas-32-million-for-lack-of-encryption/"
 categories = "Cybersecurity"

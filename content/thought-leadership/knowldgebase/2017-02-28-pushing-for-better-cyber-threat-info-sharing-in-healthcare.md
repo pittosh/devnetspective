@@ -1,5 +1,6 @@
 +++
 title =  "Pushing for Better Cyber Threat Info Sharing in Healthcare"
+metatitle = "Pushing for Better Cyber Threat Info Sharing in Healthcare - Netspective"
 type =  "page"
 url = "/thought-leadership/knowldgebase/pushing-for-better-cyber-threat-info-sharing-in-healthcare/"
 categories = "Cybersecurity"

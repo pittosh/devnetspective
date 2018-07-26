@@ -1,5 +1,6 @@
 +++
 title = "Breaches and Ransomware! How Does Your Security Compare"
+metatitle = "Breaches and Ransomware! How Does Your Security Compare - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/breaches-and-ransomware-how-does-your-security-compare/"
 categories = "Cybersecurity"

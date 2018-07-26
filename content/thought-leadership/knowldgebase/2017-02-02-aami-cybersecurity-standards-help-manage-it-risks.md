@@ -1,5 +1,6 @@
 +++
 title = "AAMI Cybersecurity standards help manage IT risks"
+metatitle = "AAMI Cybersecurity standards help manage IT risks - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/aami-cybersecurity-standards-help-manage-it-risks/"
 categories ="Cybersecurity"

@@ -1,5 +1,6 @@
 +++
 title = "HITRUST compiles Threat Catalogue to help healthcare orgs prioritize cybersecurity risks"
+metatitle = "HITRUST compiles Threat Catalogue to help healthcare orgs prioritize cybersecurity risks - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/hitrust-compiles-threat-catalogue-to-help-healthcare-orgs-prioritize-cybersecurity-risks/"
 categories = "Cybersecurity"
