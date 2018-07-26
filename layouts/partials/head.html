@@ -4,6 +4,8 @@
 <meta content="{{ delimit .Keywords ", " }}" name="keywords">
 <meta property="og:title" content="{{ .Title }}" />
 <meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }}{{ .Description }}{{ end }}" property="og:description">
+<meta property="og:site_name" content="Netspective" />
+<meta name="twitter:card" content="summary" />
 <meta name = "twitter:description" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }}{{ .Description }}{{ end }}" property="og:description">
 <!-- robots -->
 <!-- you may configure it in the front matter of the page or in site params -->
