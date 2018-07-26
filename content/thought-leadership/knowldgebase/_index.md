@@ -11,13 +11,13 @@ Title | Type
 [Pushing for Better Cyber Threat Info Sharing in Healthcare](/thought-leadership/knowldgebase/pushing-for-better-cyber-threat-info-sharing-in-healthcare) | Cybersecurity
 [Cybersecurity What healthcare administrators need to know](/thought-leadership/knowldgebase/cybersecurity-what-healthcare-administrators-need-to-know/) | Cybersecurity
 [Prognosis negative Healthcare data of a quarter of US consumers exposed](/thought-leadership/knowldgebase/prognosis-negative-healthcare-data-of-a-quarter-of-us-consumers-exposed/) | Cybersecurity
-[Breaches and Ransomware! How Does Your Security Compare](/cybersecurity/2017/02/20/breaches-and-ransomware-how-does-your-security-compare/) | Cybersecurity
+[Breaches and Ransomware! How Does Your Security Compare](/thought-leadership/knowldgebase/breaches-and-ransomware-how-does-your-security-compare/) | Cybersecurity
 [The Evolving State of Medical Device Cybersecurity](/thought-leadership/knowldgebase/the-evolving-state-of-medical-device-cybersecurity/) | Cybersecurity
 [HIMSS17 A Preview of Healthcare Cybersecurity Happenings](/thought-leadership/knowldgebase/himss17-a-preview-of-healthcare-cybersecurity-happenings/) | Cybersecurity
 [Cybersecurity Actions Needed to Strengthen US Capabilities](/thought-leadership/knowldgebase/cybersecurity-actions-needed-to-strengthen-us-capabilities/) | Cybersecurity
 [Survey: Cybersecurity an executive-level priority for insurers](/thought-leadership/knowldgebase/survey-cybersecurity-an-executive-level-priority-for-insurers/) | Cybersecurity
 [The outlook for HIPAA and cybersecurity enforcement under new HHS Secretary Tom Price](/thought-leadership/knowldgebase/the-outlook-for-hipaa-and-cybersecurity-enforcement-under-new-hhs-secretary-tom-price/) | Cybersecurity
-[Epidemiology Immunology Genetics Echo in InfoSecurity](/cybersecurity/2017/02/14/epidemiology-immunology-genetics-echo-in-infosecurity/) | Cybersecurity
+[Epidemiology Immunology Genetics Echo in InfoSecurity](/thought-leadership/knowldgebase/epidemiology-immunology-genetics-echo-in-infosecurity/) | Cybersecurity
 [How Will New HHS Secretary Lead Security Privacy Efforts](/thought-leadership/knowldgebase/how-will-new-hhs-secretary-lead-security-privacy-efforts/) | Cybersecurity
 [What Do We Do About Cybersecurity](/thought-leadership/knowldgebase/what-do-we-do-about-cybersecurity/) | Cybersecurity
 [Sizing Up Health Data Breaches Reported in 2017 So Far](/thought-leadership/knowldgebase/sizing-up-health-data-breaches-reported-in-2017-so-far/) | Cybersecurity
