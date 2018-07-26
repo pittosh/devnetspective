@@ -982,6 +982,17 @@ li.height81 {
 label.error {
   display: inline;
 }
+.phone{
+  color: #fff;
+}
+.phone img{
+  width: 20px;
+  height: 20px;
+}
+.phone span{
+  font-weight: bold;
+  margin-left: 5px
+}
 .col-xs-5,
 .col-sm-5,
 .col-md-5,
