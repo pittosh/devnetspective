@@ -8,8 +8,9 @@
 <meta property="og:title" content="{{ .Title }}" />
 <meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }}{{ .Description }}{{ end }}" property="og:description">
 <meta property="og:site_name" content="Netspective" />
+<meta property="og:image" content="{{ .Site.BaseURL }}{{.Params.path}}" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="{{ .Title }}" />.
+<meta name="twitter:title" content="{{ .Title }}" />
 <meta name = "twitter:description" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }}{{ .Description }}{{ end }}" property="og:description">
 <!-- robots -->
 <!-- you may configure it in the front matter of the page or in site params -->
