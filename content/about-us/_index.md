@@ -1,5 +1,6 @@
 +++
-title = "About Us - Netspective"
+title = "About Us"
+metatitle = "About Us - Netspective"
 type  = "page"
 layout = "menu-level-one"
 keywords = "Medical Technology, Healthcare & Government IT"

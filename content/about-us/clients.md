@@ -1,5 +1,6 @@
 +++
-title = "Clients - Netspective"
+title = "Clients"
+metatitle = "Clients - Netspective"
 type  = "page"
 layout = "menu-level-one"
 keywords = "Medical Technology, Healthcare & Government IT"
