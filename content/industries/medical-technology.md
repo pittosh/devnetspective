@@ -1,5 +1,5 @@
 +++
-title = "Medical Technology"
+title = "Medical Technology Applications,Devices-Services,Integration Solutions"
 type = "page"
 description = "Netspective pioneers in bringing exceptional solutions for the Medical Technology industry in both the applications and device segments."
 
