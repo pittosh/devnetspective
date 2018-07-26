@@ -9,6 +9,7 @@ section_icon_image: img/solutions/watchtower/Real-time-Watch.png
 ---
 
 Real-time Monitoring that Never Sleeps
+
 Netspective Watchtower provides you with the tools you need to assure consistent software reliability and performance.
 
 Watchtower services:
