@@ -1,5 +1,6 @@
 +++
 title = "Strategy"
+metatitle = "Strategy-Business,Innovation,Product,Technology,Vendor-Healthcare,Medical Technology"
 type  = "page"
 layout = "menu-level-one"
 keywords = "Medical Technology, Healthcare & Government IT"

@@ -1,5 +1,6 @@
 +++
 title = "Operational Excellence with Lean Six Sigma"
+metatitle = "Operational Excellence with Lean Six Sigma - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "Netspective Lean Six Sigma OE Package Identification, Assessment and Training Planning and Implementation Process Improvement"

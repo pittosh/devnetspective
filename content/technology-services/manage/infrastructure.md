@@ -1,5 +1,6 @@
 +++
 title = "Infrastructure"
+metatitle = "Infrastructure - Netspective"
 type = "page"
 keywords = "Medical Technology, Healthcare & Government IT"
 description = "One dramatic change for IT and Technology products has been how Infrastructure is architected, procured and managed across enterprises. This change has occurred across most industry domains, but we see this change just beginning to happen within Healthcare, Government and Medical Technology industries. Enterprises and agencies are opening up to the idea and investing into hellip"

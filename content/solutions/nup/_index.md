@@ -1,5 +1,7 @@
 +++
 title = "Netspective Unified Process"
+metatitle = "Netspective Unified Process - Netspective"
+type = "solutions"
 layout = "proveit" 
 url = "/solutions/nup"
 slug ="nup"

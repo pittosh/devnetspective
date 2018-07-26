@@ -1,5 +1,7 @@
 +++
 title = "Easy Ryde"
+metatitle = "EasyRyde - Netspective"
+type = "solutions"
 layout = "proveit" 
 url = "/solutions/easyryde"
 slug ="easy-ryde"

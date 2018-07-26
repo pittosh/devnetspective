@@ -1,5 +1,7 @@
 +++
 title = "ProveIT"
+metatitle = "ProveIT - Netspective"
+type = "solutions"
 layout = "proveit" 
 url = "/solutions/proveit"
 slug ="prove-it"

@@ -1,5 +1,7 @@
 +++
 title = "CAK"
+metatitle = "Content Assembler Kit - Netspective"
+type = "solutions"
 layout = "solutions" 
 url = "/solutions/cak"
 banner_title   = "STEERING BUYERS TO YOUR PRODUCTS"

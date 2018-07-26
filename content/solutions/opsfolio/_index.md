@@ -1,5 +1,7 @@
 +++
 title = "Opsfolio"
+metatitle = "HIPAA Compliant Cybersecurity & Risk Assessment Software | Netspective Opsfolio"
+type = "solutions"
 layout = "solutions" 
 url = "/solutions/opsfolio"
 banner_title   = "RISKS MANAGED.<br>COMPLIANCE ACHIEVED."
