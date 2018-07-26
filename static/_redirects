@@ -1,5 +1,6 @@
 # Redirects from what the browser requests to what we serve
 
+/blog/*																				/
 /about-netspective 													    			/about-us
 /team				 																/about-us/team
 /about-us/2013/01/09/clients														/about-us/clients
@@ -162,9 +163,63 @@ revenue-losses
 /wp-content/uploads/2012/05/The-Myth-of-health-data-complexity-why-heath-IT-
 systems-integrate-poorly-today-and-what-we-can-do-about-it.pdf						/pdf/The-Myth-of-health-data-complexity-why-heath-IT-systems-integrate-poorly-																						today-and-what-we-can-do-about-it.pdf
 
-/wp-content/uploads/2012/05/Netspective-Business-Consulting-and-Regulated-IT-		/pdf/Netspective-Business-Consulting-and-Regulated-IT-Services-forMedical-Device-																					  Manufacturers-and-Biomedical-Solutions-Firms-1.pdf
+/wp-content/uploads/2012/05/Netspective-Business-Consulting-and-Regulated-IT-		 /pdf/Netspective-Business-Consulting-and-Regulated-IT-Services-forMedical-Device-																					  Manufacturers-and-Biomedical-Solutions-Firms-1.pdf
 Services-forMedical-Device-Manufacturers-and-Biomedical-Solutions-Firms-1.pdf
 
-/wp-content/uploads/2012/05/Netspective-Corporate-Datasheet3.pdf  					/pdf/Netspective-Corporate-Datasheet3.pdf
-/wp-content/uploads/2012/05/Netspective-Medigy-Architecture-Datasheet-21.pdf 		/pdf/Netspective-Medigy-Architecture-Datasheet-21.pdf
-/wp-content/uploads/2012/05/Netspective-Medigy-Features-Datasheet.pdf 				/pdf/Netspective-Medigy-Features-Datasheet.pdf																																													
+/wp-content/uploads/2012/05/Netspective-Corporate-Datasheet3.pdf  						/pdf/Netspective-Corporate-Datasheet3.pdf
+/wp-content/uploads/2012/05/Netspective-Medigy-Architecture-Datasheet-21.pdf 			/pdf/Netspective-Medigy-Architecture-Datasheet-21.pdf
+/wp-content/uploads/2012/05/Netspective-Medigy-Features-Datasheet.pdf 					/pdf/Netspective-Medigy-Features-Datasheet.pdf
+/cybersecurity/2017/02/28/pushing-for-better-cyber-threat-info-sharing-in-healthcare	/thought-leadership/knowldgebase/pushing-for-better-cyber-threat-info-sharing-																						  in-healthcare
+/cybersecurity/2017/02/27/cybersecurity-what-healthcare-administrators-need-to-know  	/thought-leadership/knowldgebase/cybersecurity-what-healthcare-administrators-																						  need-to-know
+/cybersecurity/2017/02/23/prognosis-negative-healthcare-data-of-a-quarter-of-us-
+consumers-exposed
+																					    /thought-leadership/knowldgebase/prognosis-negative-healthcare-data-of-a-quarter-of-us-consumers-exposed
+
+/cybersecurity/2017/02/20/the-evolving-state-of-medical-device-cybersecurity			/thought-leadership/knowldgebase/the-evolving-state-of-medical-device-																								cybersecurity
+/cybersecurity/2017/02/17/himss17-a-preview-of-healthcare-cybersecurity-happenings		/thought-leadership/knowldgebase/himss17-a-preview-of-healthcare-cybersecurity																						  -happenings
+/cybersecurity/2017/02/16/cybersecurity-actions-needed-to-strengthen-us-capabilities	/thought-leadership/knowldgebase/cybersecurity-actions-needed-to-strengthen-us																						  -capabilities
+/cybersecurity/2017/02/15/survey-cybersecurity-an-executive-level-priority-for-insurers	  /thought-leadership/knowldgebase/survey-cybersecurity-an-executive-level-																							 priority-for-insurers	
+/cybersecurity/2017/02/15/the-outlook-for-hipaa-and-cybersecurity-enforcement-
+under-new-hhs-secretary-tom-price														/thought-leadership/knowldgebase/the-outlook-for-hipaa-and-cybersecurity- 																							enforcement-under-new-hhs-secretary-tom-price
+
+/cybersecurity/2017/02/13/how-will-new-hhs-secretary-lead-security-privacy-efforts		/thought-leadership/knowldgebase/how-will-new-hhs-secretary-lead-security-																								privacy-efforts	
+/cybersecurity/2017/02/10/what-do-we-do-about-cybersecurity							  	/thought-leadership/knowldgebase/what-do-we-do-about-cybersecurity
+
+/cybersecurity/2017/02/20/breaches-and-ransomware-how-does-your-security-compare	   	/thought-leadership/knowldgebase/breaches-and-ransomware-how-does-your-security																						 -compare
+/cybersecurity/2017/02/14/epidemiology-immunology-genetics-echo-in-infosecurity		   	/thought-leadership/knowldgebase/epidemiology-immunology-genetics-echo-in-																						     infosecurity
+/cybersecurity/2017/02/08/sizing-up-health-data-breaches-reported-in-2017-so-far	  	/thought-leadership/knowldgebase/sizing-up-health-data-breaches-reported-in-2017																						-so-far
+/cybersecurity/2017/02/08/breach-at-verity-health-system-exposes-data-of-more
+-than-10000-patients																  	/thought-leadership/knowldgebase/breach-at-verity-health-system-exposes-data-of- 																					    more-than-10000-patients	
+/cybersecurity/2017/02/08/will-the-good-guys-ever-catch-up-to-the-bad-guys-
+when-it-comes-to-cybercrime-in-healthcare											 	/thought-leadership/knowldgebase/will-the-good-guys-ever-catch-up-to-the-bad-guys-																					   when-it-comes-to-cybercrime-in-healthcare	
+
+/cybersecurity/2017/02/07/expert-analysis-improving-medical-device-cybersecurity		/thought-leadership/knowldgebase/expert-analysis-improving-medical-device-																							cybersecurity/
+
+/cybersecurity/2017/02/07/nist-review-confirms-copy-and-paste-safety-concerns			/thought-leadership/knowldgebase/nist-review-confirms-copy-and-paste-safety-																						concerns
+
+/cybersecurity/2017/02/03/top-types-of-cyberattacks-on-hospital-healthcare-networks		/thought-leadership/knowldgebase/top-types-of-cyberattacks-on-hospital-																								healthcare-networks	
+
+/cybersecurity/2017/02/02/hitrust-compiles-threat-catalogue-to-help-healthcare-orgs-
+prioritize-cybersecurity-risks															/thought-leadership/knowldgebase/hitrust-compiles-threat-catalogue-to-help-  																						 healthcare-orgs-prioritize-cybersecurity-risks
+
+/cybersecurity/2017/02/02/ocr-fines-childrens-medical-center-of-dallas-32-million-     
+for-lack-of-encryption																	/thought-leadership/knowldgebase/ocr-fines-childrens-medical-center-of-dallas- 																						  32-million-for-lack-of-encryption
+/cybersecurity/2017/02/02/aami-cybersecurity-standards-help-manage-it-risks				/thought-leadership/knowldgebase/aami-cybersecurity-standards-help-manage-it-																						 risks
+/cybersecurity/2017/02/01/hospitals-as-cyber-targets-how-to-prepare-
+for-the-inevitable-data-breach															/thought-leadership/knowldgebase/hospitals-as-cyber-targets-how-to-prepare-for																						  -the-inevitable-data-breach
+/data-science/2017/01/25/future-of-healthcare-grounded-in-data-but-details-fuzzy		/thought-leadership/knowldgebase/future-of-healthcare-grounded-in-data-but- 																						details-fuzzy
+
+/data-science/2017/01/18/5-reasons-we-must-untrap-digital-healths-big-data				/thought-leadership/knowldgebase/5-reasons-we-must-untrap-digital-healths-big- 																						  data
+
+/data-science/2017/01/16/lessons-learned-from-2016-its-time-to-address-internal
+-security-threats-to-health-data														/thought-leadership/knowldgebase/lessons-learned-from-2016-its-time-to-
+																						address-internal-security-threats-to-health-data
+
+/data-science/2017/01/07/a-guide-to-achieving-big-data-analytics-maturity				/thought-leadership/knowldgebase/a-guide-to-achieving-big-data-analytics-																							maturity
+/data-science/2017/01/05/developers-get-new-git-code-hosting-option						/thought-leadership/knowldgebase/developers-get-new-git-code-hosting-option
+/data-science/2017/01/04/big-data-and-apis												/thought-leadership/knowldgebase/big-data-and-apis
+/data-science/2017/01/04/eric-topol-deaggregate-data-to-liberate-and-protect-it			/thought-leadership/knowldgebase/eric-topol-deaggregate-data-to-liberate-and-																						 protect-it
+/data-science/2016/12/18/nist-sp-800-188-can-help-healthcare-innovators-
+understand-how-to-de-identify-datasets													/thought-leadership/knowldgebase/nist-sp-800-188-can-help-healthcare- 																								innovators-understand-how-to-de-identify-datasets
+
+
