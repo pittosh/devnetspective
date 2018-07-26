@@ -1,5 +1,6 @@
 +++
 title = "How Will New HHS Secretary Lead Security Privacy Efforts"
+metatitle = "How Will New HHS Secretary Lead Security Privacy Efforts - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/how-will-new-hhs-secretary-lead-security-privacy-efforts/"
 categories = "Cybersecurity"

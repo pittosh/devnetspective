@@ -1,5 +1,6 @@
 +++
 title = "Prognosis negative Healthcare data of a quarter of US consumers exposed"
+metatitle = "Prognosis negative Healthcare data of a quarter of US consumers exposed - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/prognosis-negative-healthcare-data-of-a-quarter-of-us-consumers-exposed/"
 categories = "Cybersecurity"

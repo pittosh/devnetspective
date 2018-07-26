@@ -1,5 +1,6 @@
 +++
 title = "The outlook for HIPAA and cybersecurity enforcement under new HHS Secretary Tom Price"
+metatitle = "The outlook for HIPAA and cybersecurity enforcement under new HHS Secretary Tom Price - Netspective"
 type = "page"
 url =  "/thought-leadership/knowldgebase/the-outlook-for-hipaa-and-cybersecurity-enforcement-under-new-hhs-secretary-tom-price/"
 categories = "Cybersecurity"

@@ -1,5 +1,6 @@
 +++
 title = "The Evolving State of Medical Device Cybersecurity"
+metatitle = "The Evolving State of Medical Device Cybersecurity - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/the-evolving-state-of-medical-device-cybersecurity/"
 categories = "Cybersecurity"

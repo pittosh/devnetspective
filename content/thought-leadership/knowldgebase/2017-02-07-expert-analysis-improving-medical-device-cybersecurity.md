@@ -1,5 +1,6 @@
 +++
 title = "Expert Analysis Improving Medical Device Cybersecurity"
+metatitle = "Expert Analysis Improving Medical Device Cybersecurity - Netspective"
 type = "page"
 url = "/thought-leadership/knowldgebase/expert-analysis-improving-medical-device-cybersecurity/"
 categories ="Cybersecurity"
