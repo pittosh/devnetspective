@@ -2,6 +2,7 @@
 title: Netspective sees Wireless capable medical devices with significant software and data integration are the future
 author: Gunjan Siroya
 excerpt: Hundreds of executives and staff in the medical device manufacturing industry gathered in Boston on November 28 to learn about how Wireless capable medical devices could significantly improve patient care.
+date: 2012-12-03T08:51:22+00:00
 categories:
   - Newsroom
 
