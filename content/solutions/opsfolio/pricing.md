@@ -451,22 +451,22 @@ section_menu_label: Pricing
 <div class="feature-label"></div>
 </li>
 <li class="height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="/about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 <li class="height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 <li class="sep">
 <div class="feature-label"></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 <li class=" height81">
-<div class="feature-label"><a href="{{ .Site.BaseURL }}about-us/contact/" target="_blank">Contact Us</a></div>
+<div class="feature-label"><a href="about-us/contact/" target="_blank">Contact Us</a></div>
 </li>
 </ul></div>
 </div>
