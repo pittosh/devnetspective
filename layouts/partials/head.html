@@ -10,7 +10,7 @@ name="description" content="{{.Params.description}}"/>
 <meta property="og:title" content="{{.Params.metatitle}}" />
 <meta content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }}{{ .Description }}{{ end }}" property="og:description">
 <meta property="og:site_name" content="Netspective" />
-<meta property="og:image" content="{{ .Site.BaseURL }}{{.Params.path}}" />
+<meta property="og:image" content={{ .Site.BaseURL }}{{.Params.path}} />
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:title" content="{{.Params.metatitle}}" />
 <meta name = "twitter:description" content="{{ $isHomePage := eq .Title .Site.Title }}{{ .Site.Params.description }}{{ if eq $isHomePage false }}{{ .Description }}{{ end }}" property="og:description">
