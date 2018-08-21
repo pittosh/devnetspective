@@ -2,6 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta content="{{ delimit .Keywords ", " }}" name="keywords">
+<base href="{{ .Site.BaseURL }}">
 {{ if .IsHome }}
 <meta name="title" content="{{.Site.Params.title}}" />
 <meta
@@ -21,7 +22,7 @@ name="description" content="{{.Params.description}}"/>
 <meta property="og:description" content="{{.Params.description}}">
 {{ end }}
 <meta property="og:site_name" content="Netspective" />
-<meta property="og:image" content=/{{.Params.path}} />
+<meta property="og:image" content="{{.Site.BaseURL}}{{.Params.path}}" />
 <meta name="twitter:card" content="summary" />
 {{ if .IsHome }}
 <meta name="twitter:title" content="{{.Site.Params.metatitle}}" />
@@ -41,7 +42,7 @@ name="description" content="{{.Params.description}}"/>
 <title>{{ .Title }}</title>
 {{ .Hugo.Generator }}
 
-<base href="{{ .Site.BaseURL }}">
+
 
 <!-- CSS -->
 <link rel="stylesheet" href="{{ .Site.BaseURL }}css/owl.carousel.css" />
